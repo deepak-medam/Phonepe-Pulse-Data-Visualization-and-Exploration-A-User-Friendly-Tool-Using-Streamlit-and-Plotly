@@ -6,19 +6,31 @@
       {
         "name": "north and middle andaman district",
         "metric": [
-          { "type": "TOTAL", "count": 27358, "amount": 7.502725527919498e7 }
+          {
+            "type": "TOTAL",
+            "count": 27358,
+            "amount": 75027255.27919498
+          }
         ]
       },
       {
         "name": "south andaman district",
         "metric": [
-          { "type": "TOTAL", "count": 207092, "amount": 6.696040451248703e8 }
+          {
+            "type": "TOTAL",
+            "count": 207092,
+            "amount": 669604045.1248703
+          }
         ]
       },
       {
         "name": "nicobars district",
         "metric": [
-          { "type": "TOTAL", "count": 10302, "amount": 3.90752669856904e7 }
+          {
+            "type": "TOTAL",
+            "count": 10302,
+            "amount": 39075266.9856904
+          }
         ]
       }
     ]

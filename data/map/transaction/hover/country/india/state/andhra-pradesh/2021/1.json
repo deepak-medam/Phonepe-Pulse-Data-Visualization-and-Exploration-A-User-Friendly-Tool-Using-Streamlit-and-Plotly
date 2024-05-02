@@ -6,7 +6,11 @@
       {
         "name": "east godavari district",
         "metric": [
-          { "type": "TOTAL", "count": 26190701, "amount": 6.002798498796951e10 }
+          {
+            "type": "TOTAL",
+            "count": 26190701,
+            "amount": 60027984987.96951
+          }
         ]
       },
       {
@@ -15,14 +19,18 @@
           {
             "type": "TOTAL",
             "count": 11160473,
-            "amount": 2.6486623313092724e10
+            "amount": 26486623313.092724
           }
         ]
       },
       {
         "name": "spsr nellore district",
         "metric": [
-          { "type": "TOTAL", "count": 22541428, "amount": 5.221033320153073e10 }
+          {
+            "type": "TOTAL",
+            "count": 22541428,
+            "amount": 52210333201.53073
+          }
         ]
       },
       {
@@ -31,14 +39,18 @@
           {
             "type": "TOTAL",
             "count": 10514582,
-            "amount": 2.4153782497243248e10
+            "amount": 24153782497.243248
           }
         ]
       },
       {
         "name": "visakhapatnam district",
         "metric": [
-          { "type": "TOTAL", "count": 48248923, "amount": 9.530838603784721e10 }
+          {
+            "type": "TOTAL",
+            "count": 48248923,
+            "amount": 95308386037.84721
+          }
         ]
       },
       {
@@ -47,38 +59,58 @@
           {
             "type": "TOTAL",
             "count": 15175395,
-            "amount": 4.1396223622174774e10
+            "amount": 41396223622.174774
           }
         ]
       },
       {
         "name": "anantapur district",
         "metric": [
-          { "type": "TOTAL", "count": 20102957, "amount": 4.835387039501808e10 }
+          {
+            "type": "TOTAL",
+            "count": 20102957,
+            "amount": 48353870395.01808
+          }
         ]
       },
       {
         "name": "ysr district",
         "metric": [
-          { "type": "TOTAL", "count": 15374473, "amount": 4.257091944850447e10 }
+          {
+            "type": "TOTAL",
+            "count": 15374473,
+            "amount": 42570919448.50447
+          }
         ]
       },
       {
         "name": "west godavari district",
         "metric": [
-          { "type": "TOTAL", "count": 16015685, "amount": 4.212403066936126e10 }
+          {
+            "type": "TOTAL",
+            "count": 16015685,
+            "amount": 42124030669.36126
+          }
         ]
       },
       {
         "name": "kurnool district",
         "metric": [
-          { "type": "TOTAL", "count": 17918524, "amount": 4.494162965956964e10 }
+          {
+            "type": "TOTAL",
+            "count": 17918524,
+            "amount": 44941629659.56964
+          }
         ]
       },
       {
         "name": "chittoor district",
         "metric": [
-          { "type": "TOTAL", "count": 29342609, "amount": 6.094749184666089e10 }
+          {
+            "type": "TOTAL",
+            "count": 29342609,
+            "amount": 60947491846.66089
+          }
         ]
       },
       {
@@ -87,14 +119,18 @@
           {
             "type": "TOTAL",
             "count": 27445045,
-            "amount": 6.4207987853108406e10
+            "amount": 64207987853.108406
           }
         ]
       },
       {
         "name": "krishna district",
         "metric": [
-          { "type": "TOTAL", "count": 29717175, "amount": 6.971540664453485e10 }
+          {
+            "type": "TOTAL",
+            "count": 29717175,
+            "amount": 69715406644.53485
+          }
         ]
       }
     ]

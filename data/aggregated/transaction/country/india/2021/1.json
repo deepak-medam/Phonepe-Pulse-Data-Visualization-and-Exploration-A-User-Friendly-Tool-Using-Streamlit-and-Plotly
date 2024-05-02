@@ -11,7 +11,7 @@
           {
             "type": "TOTAL",
             "count": 1467948823,
-            "amount": 8.444666338968679e11
+            "amount": 844466633896.8679
           }
         ]
       },
@@ -21,7 +21,7 @@
           {
             "type": "TOTAL",
             "count": 1447600942,
-            "amount": 5.170856441552582e12
+            "amount": 5170856441552.582
           }
         ]
       },
@@ -31,20 +31,28 @@
           {
             "type": "TOTAL",
             "count": 530118545,
-            "amount": 2.601824407304327e11
+            "amount": 260182440730.4327
           }
         ]
       },
       {
         "name": "Financial Services",
         "paymentInstruments": [
-          { "type": "TOTAL", "count": 3075296, "amount": 3.5738847785300817e9 }
+          {
+            "type": "TOTAL",
+            "count": 3075296,
+            "amount": 3573884778.5300817
+          }
         ]
       },
       {
         "name": "Others",
         "paymentInstruments": [
-          { "type": "TOTAL", "count": 8851525, "amount": 5.1999018918900385e9 }
+          {
+            "type": "TOTAL",
+            "count": 8851525,
+            "amount": 5199901891.8900385
+          }
         ]
       }
     ]

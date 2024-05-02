@@ -8,7 +8,11 @@
       {
         "name": "Insurance",
         "paymentInstruments": [
-          { "type": "TOTAL", "count": 318119, "amount": 2.06307024e8 }
+          {
+            "type": "TOTAL",
+            "count": 318119,
+            "amount": 206307024
+          }
         ]
       }
     ]

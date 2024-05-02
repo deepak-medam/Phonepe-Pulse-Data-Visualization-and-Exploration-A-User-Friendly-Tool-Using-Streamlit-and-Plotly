@@ -2,7 +2,10 @@
   "success": true,
   "code": "SUCCESS",
   "data": {
-    "aggregated": { "registeredUsers": 284985430, "appOpens": 8635508502 },
+    "aggregated": {
+      "registeredUsers": 284985430,
+      "appOpens": 8635508502
+    },
     "usersByDevice": [
       {
         "brand": "Xiaomi",
@@ -14,8 +17,16 @@
         "count": 56154585,
         "percentage": 0.19704370500625243
       },
-      { "brand": "Vivo", "count": 53341749, "percentage": 0.18717360041880035 },
-      { "brand": "Oppo", "count": 35512326, "percentage": 0.12461102309686499 },
+      {
+        "brand": "Vivo",
+        "count": 53341749,
+        "percentage": 0.18717360041880035
+      },
+      {
+        "brand": "Oppo",
+        "count": 35512326,
+        "percentage": 0.12461102309686499
+      },
       {
         "brand": "Realme",
         "count": 17541519,
@@ -41,7 +52,11 @@
         "count": 4895538,
         "percentage": 0.017178204513823743
       },
-      { "brand": "Lenovo", "count": 3907304, "percentage": 0.0137105395177571 },
+      {
+        "brand": "Lenovo",
+        "count": 3907304,
+        "percentage": 0.0137105395177571
+      },
       {
         "brand": "Others",
         "count": 23564639,
