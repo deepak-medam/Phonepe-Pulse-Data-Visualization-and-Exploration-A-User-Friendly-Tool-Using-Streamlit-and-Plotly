@@ -1,0 +1,2161 @@
+State,Year,Quarter,Transaction_Type,Transaction_Count,Transaction_Amount
+andaman-&-nicobar-islands,2021,1,Peer-to-peer payments,105458,665391395.715478
+andaman-&-nicobar-islands,2021,1,Recharge & bill payments,84119,37160922.86506996
+andaman-&-nicobar-islands,2021,1,Merchant payments,53090,78606979.05751458
+andaman-&-nicobar-islands,2021,1,Financial Services,884,1469351.0852598653
+andaman-&-nicobar-islands,2021,1,Others,1201,1077918.666433228
+andaman-&-nicobar-islands,2021,2,Peer-to-peer payments,132772,748382044.7707307
+andaman-&-nicobar-islands,2021,2,Recharge & bill payments,120911,43691961.26275121
+andaman-&-nicobar-islands,2021,2,Merchant payments,85143,103707408.50908463
+andaman-&-nicobar-islands,2021,2,Financial Services,960,2038521.5136710338
+andaman-&-nicobar-islands,2021,2,Others,1628,1327080.0560584562
+andaman-&-nicobar-islands,2021,3,Peer-to-peer payments,192321,1077787837.1562996
+andaman-&-nicobar-islands,2021,3,Recharge & bill payments,136010,51243450.85925055
+andaman-&-nicobar-islands,2021,3,Merchant payments,118340,176991328.21761328
+andaman-&-nicobar-islands,2021,3,Financial Services,990,2351013.441729573
+andaman-&-nicobar-islands,2021,3,Others,2103,1650766.1267105162
+andaman-&-nicobar-islands,2021,4,Peer-to-peer payments,285778,1544932663.2744582
+andaman-&-nicobar-islands,2021,4,Merchant payments,210164,322842314.62433755
+andaman-&-nicobar-islands,2021,4,Recharge & bill payments,135608,59243518.11464358
+andaman-&-nicobar-islands,2021,4,Financial Services,1718,3137965.167474068
+andaman-&-nicobar-islands,2021,4,Others,2855,2453640.142743944
+andaman-&-nicobar-islands,2022,1,Peer-to-peer payments,342649,1682328505.7254477
+andaman-&-nicobar-islands,2022,1,Merchant payments,284298,370091558.68373305
+andaman-&-nicobar-islands,2022,1,Recharge & bill payments,163401,71300133.66101266
+andaman-&-nicobar-islands,2022,1,Financial Services,1757,2869682.0229511866
+andaman-&-nicobar-islands,2022,1,Others,2643,2440321.9820225406
+andaman-&-nicobar-islands,2022,2,Merchant payments,449540,510838980.9061847
+andaman-&-nicobar-islands,2022,2,Peer-to-peer payments,437606,2088309073.4552848
+andaman-&-nicobar-islands,2022,2,Recharge & bill payments,179515,82232936.61795366
+andaman-&-nicobar-islands,2022,2,Financial Services,1448,2089862.3927160464
+andaman-&-nicobar-islands,2022,2,Others,3108,2449496.7081265687
+andaman-&-nicobar-islands,2022,3,Merchant payments,716105,693438186.296541
+andaman-&-nicobar-islands,2022,3,Peer-to-peer payments,622217,2514535154.56483
+andaman-&-nicobar-islands,2022,3,Recharge & bill payments,240766,97748065.62714244
+andaman-&-nicobar-islands,2022,3,Financial Services,1814,2166304.9779766416
+andaman-&-nicobar-islands,2022,3,Others,3477,2744060.670897343
+andaman-&-nicobar-islands,2022,4,Merchant payments,956536,906365300.6585041
+andaman-&-nicobar-islands,2022,4,Peer-to-peer payments,768758,2961630584.8271313
+andaman-&-nicobar-islands,2022,4,Recharge & bill payments,256050,110037119.66941178
+andaman-&-nicobar-islands,2022,4,Financial Services,2499,3533987.2301130476
+andaman-&-nicobar-islands,2022,4,Others,3692,3107412.043626394
+andaman-&-nicobar-islands,2023,1,Merchant payments,1122063,1008821751.0
+andaman-&-nicobar-islands,2023,1,Peer-to-peer payments,862347,3299762230.0
+andaman-&-nicobar-islands,2023,1,Recharge & bill payments,286024,146338470.0
+andaman-&-nicobar-islands,2023,1,Financial Services,2515,3556954.0
+andaman-&-nicobar-islands,2023,1,Others,3443,3049182.0
+andaman-&-nicobar-islands,2023,2,Merchant payments,1410653,1159905474.0
+andaman-&-nicobar-islands,2023,2,Peer-to-peer payments,970525,3664415887.0
+andaman-&-nicobar-islands,2023,2,Recharge & bill payments,320922,158455723.0
+andaman-&-nicobar-islands,2023,2,Financial Services,2158,4161814.0
+andaman-&-nicobar-islands,2023,2,Others,3517,3405338.0
+andaman-&-nicobar-islands,2023,3,Merchant payments,1657848,1289780198.0
+andaman-&-nicobar-islands,2023,3,Peer-to-peer payments,1111211,3757627272.0
+andaman-&-nicobar-islands,2023,3,Recharge & bill payments,323935,157992380.0
+andaman-&-nicobar-islands,2023,3,Financial Services,2199,3850023.0
+andaman-&-nicobar-islands,2023,3,Others,3183,2346918.0
+andaman-&-nicobar-islands,2023,4,Merchant payments,2039888,1653303276.0
+andaman-&-nicobar-islands,2023,4,Peer-to-peer payments,1321796,4420459049.0
+andaman-&-nicobar-islands,2023,4,Recharge & bill payments,327460,185028400.0
+andaman-&-nicobar-islands,2023,4,Financial Services,3276,7836466.0
+andaman-&-nicobar-islands,2023,4,Others,3363,2925308.0
+andhra-pradesh,2021,1,Peer-to-peer payments,149313738,580542193013.0018
+andhra-pradesh,2021,1,Merchant payments,97920281,70813192713.43477
+andhra-pradesh,2021,1,Recharge & bill payments,41940689,20546424964.14482
+andhra-pradesh,2021,1,Financial Services,225355,270313028.48452014
+andhra-pradesh,2021,1,Others,347907,272546457.5502677
+andhra-pradesh,2021,2,Peer-to-peer payments,189614879,737004484057.439
+andhra-pradesh,2021,2,Merchant payments,112875274,88512429436.91248
+andhra-pradesh,2021,2,Recharge & bill payments,49626902,24646800345.106976
+andhra-pradesh,2021,2,Financial Services,243237,265483044.40124667
+andhra-pradesh,2021,2,Others,406842,308302224.3856007
+andhra-pradesh,2021,3,Peer-to-peer payments,221280317,837841124664.307
+andhra-pradesh,2021,3,Merchant payments,158290953,118164377968.16754
+andhra-pradesh,2021,3,Recharge & bill payments,51702350,27511344958.24361
+andhra-pradesh,2021,3,Financial Services,211171,297239697.83073866
+andhra-pradesh,2021,3,Others,547759,403948275.56756073
+andhra-pradesh,2021,4,Peer-to-peer payments,262006450,971269765249.1282
+andhra-pradesh,2021,4,Merchant payments,207538904,152883933596.5386
+andhra-pradesh,2021,4,Recharge & bill payments,51762842,31232784713.985794
+andhra-pradesh,2021,4,Financial Services,243951,332740108.6635881
+andhra-pradesh,2021,4,Others,701856,545223415.6638832
+andhra-pradesh,2022,1,Peer-to-peer payments,288488560,1089629182596.4781
+andhra-pradesh,2022,1,Merchant payments,242031836,169419685917.19562
+andhra-pradesh,2022,1,Recharge & bill payments,51224170,34473036841.83001
+andhra-pradesh,2022,1,Financial Services,231651,324358965.11859065
+andhra-pradesh,2022,1,Others,627694,474382234.25397474
+andhra-pradesh,2022,2,Peer-to-peer payments,321362337,1231408926513.7114
+andhra-pradesh,2022,2,Merchant payments,292530048,205433660654.20898
+andhra-pradesh,2022,2,Recharge & bill payments,56606969,42408541939.06145
+andhra-pradesh,2022,2,Financial Services,192751,245783011.04455262
+andhra-pradesh,2022,2,Others,441925,357036084.9071137
+andhra-pradesh,2022,3,Peer-to-peer payments,298804000,1140164525892.7397
+andhra-pradesh,2022,3,Merchant payments,291033653,202910820650.0824
+andhra-pradesh,2022,3,Recharge & bill payments,52467708,41438764826.20322
+andhra-pradesh,2022,3,Financial Services,187190,239347241.54655045
+andhra-pradesh,2022,3,Others,362484,323951101.5715289
+andhra-pradesh,2022,4,Merchant payments,321632104,211898851397.09848
+andhra-pradesh,2022,4,Peer-to-peer payments,315734006,1170249585983.0112
+andhra-pradesh,2022,4,Recharge & bill payments,52098850,41986837706.47902
+andhra-pradesh,2022,4,Financial Services,206459,250596592.06465048
+andhra-pradesh,2022,4,Others,345658,339211363.0027188
+andhra-pradesh,2023,1,Merchant payments,540680395,311606731877.0
+andhra-pradesh,2023,1,Peer-to-peer payments,514931308,1857818168755.0
+andhra-pradesh,2023,1,Recharge & bill payments,89143939,78817989795.0
+andhra-pradesh,2023,1,Financial Services,288150,331233097.0
+andhra-pradesh,2023,1,Others,488672,477193006.0
+andhra-pradesh,2023,2,Merchant payments,634303064,349602824539.0
+andhra-pradesh,2023,2,Peer-to-peer payments,573455382,2067288068882.0
+andhra-pradesh,2023,2,Recharge & bill payments,97202487,88352183038.0
+andhra-pradesh,2023,2,Financial Services,316533,386071375.0
+andhra-pradesh,2023,2,Others,379498,409939082.0
+andhra-pradesh,2023,3,Merchant payments,750265405,395042164275.0
+andhra-pradesh,2023,3,Peer-to-peer payments,623202203,2163464730936.0
+andhra-pradesh,2023,3,Recharge & bill payments,101000645,94077774967.0
+andhra-pradesh,2023,3,Financial Services,361584,466791218.0
+andhra-pradesh,2023,3,Others,334566,362636702.0
+andhra-pradesh,2023,4,Merchant payments,822516631,427677236042.0
+andhra-pradesh,2023,4,Peer-to-peer payments,673002314,2270766948881.0
+andhra-pradesh,2023,4,Recharge & bill payments,100733697,103186953776.0
+andhra-pradesh,2023,4,Financial Services,431705,535202901.0
+andhra-pradesh,2023,4,Others,303079,348636223.0
+arunachal-pradesh,2021,1,Peer-to-peer payments,566209,3460488558.9436507
+arunachal-pradesh,2021,1,Recharge & bill payments,450649,142358376.9003836
+arunachal-pradesh,2021,1,Merchant payments,155966,204958020.0891498
+arunachal-pradesh,2021,1,Financial Services,1558,2672460.4740365944
+arunachal-pradesh,2021,1,Others,3074,3301662.6094231335
+arunachal-pradesh,2021,2,Peer-to-peer payments,762946,4000960152.0755496
+arunachal-pradesh,2021,2,Recharge & bill payments,556680,165579844.25105897
+arunachal-pradesh,2021,2,Merchant payments,243375,283709438.5363142
+arunachal-pradesh,2021,2,Financial Services,1582,2761076.7934988844
+arunachal-pradesh,2021,2,Others,3755,3415105.3379601175
+arunachal-pradesh,2021,3,Peer-to-peer payments,986088,5033603845.032885
+arunachal-pradesh,2021,3,Recharge & bill payments,600102,187390578.30403775
+arunachal-pradesh,2021,3,Merchant payments,314658,449869060.7842621
+arunachal-pradesh,2021,3,Financial Services,1934,3348547.8272713376
+arunachal-pradesh,2021,3,Others,4185,3912143.3503634185
+arunachal-pradesh,2021,4,Peer-to-peer payments,1227616,6022733378.120082
+arunachal-pradesh,2021,4,Recharge & bill payments,633248,207784816.33218512
+arunachal-pradesh,2021,4,Merchant payments,521447,704195694.9939187
+arunachal-pradesh,2021,4,Financial Services,2386,3933557.2795471298
+arunachal-pradesh,2021,4,Others,5901,4862905.885615055
+arunachal-pradesh,2022,1,Peer-to-peer payments,1403584,6670641250.45945
+arunachal-pradesh,2022,1,Merchant payments,720803,917155358.7177179
+arunachal-pradesh,2022,1,Recharge & bill payments,670576,231933129.00412333
+arunachal-pradesh,2022,1,Financial Services,3053,3359625.792926075
+arunachal-pradesh,2022,1,Others,6052,5002264.113148138
+arunachal-pradesh,2022,2,Peer-to-peer payments,1751568,7627061474.687715
+arunachal-pradesh,2022,2,Merchant payments,1108353,1255513517.3639429
+arunachal-pradesh,2022,2,Recharge & bill payments,688770,241162643.19480157
+arunachal-pradesh,2022,2,Financial Services,2466,4063469.0998270046
+arunachal-pradesh,2022,2,Others,5768,3864269.879579009
+arunachal-pradesh,2022,3,Peer-to-peer payments,1967086,7365427284.274204
+arunachal-pradesh,2022,3,Merchant payments,1316326,1413247143.4889917
+arunachal-pradesh,2022,3,Recharge & bill payments,649322,238448083.80779752
+arunachal-pradesh,2022,3,Financial Services,1997,4763324.776043448
+arunachal-pradesh,2022,3,Others,4687,3224948.7015704075
+arunachal-pradesh,2022,4,Peer-to-peer payments,2251135,7768088687.67791
+arunachal-pradesh,2022,4,Merchant payments,1704968,1669602212.9174638
+arunachal-pradesh,2022,4,Recharge & bill payments,669151,239412553.61214688
+arunachal-pradesh,2022,4,Financial Services,2617,3785469.3993366556
+arunachal-pradesh,2022,4,Others,4838,4020773.8953960314
+arunachal-pradesh,2023,1,Peer-to-peer payments,3879583,13170741327.0
+arunachal-pradesh,2023,1,Merchant payments,2922784,2802762028.0
+arunachal-pradesh,2023,1,Recharge & bill payments,1229475,409663161.0
+arunachal-pradesh,2023,1,Financial Services,4142,6310412.0
+arunachal-pradesh,2023,1,Others,6841,5101526.0
+arunachal-pradesh,2023,2,Peer-to-peer payments,4883817,15695323405.0
+arunachal-pradesh,2023,2,Merchant payments,4091876,3651614280.0
+arunachal-pradesh,2023,2,Recharge & bill payments,1374689,447452168.0
+arunachal-pradesh,2023,2,Financial Services,3392,5815474.0
+arunachal-pradesh,2023,2,Others,6714,5493337.0
+arunachal-pradesh,2023,3,Peer-to-peer payments,5889357,16351752522.0
+arunachal-pradesh,2023,3,Merchant payments,5451474,4277046551.0
+arunachal-pradesh,2023,3,Recharge & bill payments,1450780,482412481.0
+arunachal-pradesh,2023,3,Financial Services,4825,11365670.0
+arunachal-pradesh,2023,3,Others,5997,4813862.0
+arunachal-pradesh,2023,4,Peer-to-peer payments,6678381,18554712209.0
+arunachal-pradesh,2023,4,Merchant payments,6435278,5043099494.0
+arunachal-pradesh,2023,4,Recharge & bill payments,1491471,515181105.0
+arunachal-pradesh,2023,4,Financial Services,5573,11079378.0
+arunachal-pradesh,2023,4,Others,7039,4727608.0
+assam,2021,1,Peer-to-peer payments,9449096,45476079487.10464
+assam,2021,1,Recharge & bill payments,6494111,2103017761.546533
+assam,2021,1,Merchant payments,3459132,3657261586.2001615
+assam,2021,1,Financial Services,34049,41291047.3832124
+assam,2021,1,Others,75672,48814663.88782827
+assam,2021,2,Peer-to-peer payments,11668399,51521387890.61253
+assam,2021,2,Recharge & bill payments,9058005,2657676415.2458973
+assam,2021,2,Merchant payments,4562669,4914753140.040101
+assam,2021,2,Financial Services,49671,46106001.498141706
+assam,2021,2,Others,94161,52549929.267157935
+assam,2021,3,Peer-to-peer payments,15617592,64131823895.235466
+assam,2021,3,Recharge & bill payments,10284267,3248364164.1984267
+assam,2021,3,Merchant payments,7431371,8208706348.034584
+assam,2021,3,Financial Services,39479,43889820.495989755
+assam,2021,3,Others,131732,67715045.34317216
+assam,2021,4,Peer-to-peer payments,21393962,86801625126.53499
+assam,2021,4,Merchant payments,12895755,13378765005.905182
+assam,2021,4,Recharge & bill payments,11484376,3842004488.3733196
+assam,2021,4,Financial Services,60724,65456475.826191336
+assam,2021,4,Others,185544,97116796.57575196
+assam,2022,1,Peer-to-peer payments,27156085,108855352347.44865
+assam,2022,1,Merchant payments,19011883,18833132506.022354
+assam,2022,1,Recharge & bill payments,12474674,4424035840.366192
+assam,2022,1,Financial Services,68432,73257991.39188361
+assam,2022,1,Others,178812,94659207.47378007
+assam,2022,2,Peer-to-peer payments,33879530,123829913105.31845
+assam,2022,2,Merchant payments,28377534,24333260089.826862
+assam,2022,2,Recharge & bill payments,13858113,4814695679.877083
+assam,2022,2,Financial Services,50785,55549153.74320389
+assam,2022,2,Others,168763,77624058.0178437
+assam,2022,3,Peer-to-peer payments,37000266,127264703851.96637
+assam,2022,3,Merchant payments,34935460,28789992307.161205
+assam,2022,3,Recharge & bill payments,13974568,5295136932.037907
+assam,2022,3,Financial Services,65066,62882386.459812224
+assam,2022,3,Others,138451,76363577.27323309
+assam,2022,4,Peer-to-peer payments,44828832,150693397669.18314
+assam,2022,4,Merchant payments,43605784,36033810141.574844
+assam,2022,4,Recharge & bill payments,15344794,5773980885.270762
+assam,2022,4,Financial Services,74414,75960367.91633397
+assam,2022,4,Others,127443,76370123.60102956
+assam,2023,1,Merchant payments,48987048,39416860194.0
+assam,2023,1,Peer-to-peer payments,48461200,166509153749.0
+assam,2023,1,Recharge & bill payments,16113464,6266406177.0
+assam,2023,1,Financial Services,82270,86978703.0
+assam,2023,1,Others,116656,74768264.0
+assam,2023,2,Merchant payments,62403711,45515248236.0
+assam,2023,2,Peer-to-peer payments,57852989,182809282981.0
+assam,2023,2,Recharge & bill payments,17858409,6631355080.0
+assam,2023,2,Financial Services,81172,84797972.0
+assam,2023,2,Others,94672,70104514.0
+assam,2023,3,Merchant payments,82126315,51533166362.0
+assam,2023,3,Peer-to-peer payments,66737077,185030502675.0
+assam,2023,3,Recharge & bill payments,18524152,7310558505.0
+assam,2023,3,Financial Services,105975,118529318.0
+assam,2023,3,Others,81832,65257542.0
+assam,2023,4,Merchant payments,95438754,60513904505.0
+assam,2023,4,Peer-to-peer payments,79797949,216875937740.0
+assam,2023,4,Recharge & bill payments,18323202,8011077428.0
+assam,2023,4,Financial Services,119386,142552746.0
+assam,2023,4,Others,72866,60164512.0
+bihar,2021,1,Peer-to-peer payments,58566582,242013312361.31104
+bihar,2021,1,Merchant payments,33959313,30171144593.369873
+bihar,2021,1,Recharge & bill payments,21974086,8505455545.448764
+bihar,2021,1,Financial Services,124277,112949858.25028673
+bihar,2021,1,Others,308219,170787342.8481179
+bihar,2021,2,Peer-to-peer payments,78694099,319758683264.15344
+bihar,2021,2,Merchant payments,44686786,43458914639.77138
+bihar,2021,2,Recharge & bill payments,31646149,11030849713.502428
+bihar,2021,2,Financial Services,149791,116086345.91301711
+bihar,2021,2,Others,426797,215721223.2386405
+bihar,2021,3,Peer-to-peer payments,92785704,331514102784.2631
+bihar,2021,3,Merchant payments,64094961,53849745604.9643
+bihar,2021,3,Recharge & bill payments,30081746,11327303470.019915
+bihar,2021,3,Financial Services,135748,130349071.61901987
+bihar,2021,3,Others,572954,241260025.54569885
+bihar,2021,4,Peer-to-peer payments,117340712,423665098014.2792
+bihar,2021,4,Merchant payments,95992559,81729122295.53772
+bihar,2021,4,Recharge & bill payments,30824177,13438634948.212643
+bihar,2021,4,Financial Services,186298,173358268.82083318
+bihar,2021,4,Others,783199,365400541.9114517
+bihar,2022,1,Peer-to-peer payments,138085265,500024806542.69324
+bihar,2022,1,Merchant payments,114892163,95507710275.50963
+bihar,2022,1,Recharge & bill payments,30545266,15431605247.390364
+bihar,2022,1,Financial Services,169722,148088975.22896564
+bihar,2022,1,Others,698018,299484690.3236611
+bihar,2022,2,Peer-to-peer payments,164119431,610448610667.7207
+bihar,2022,2,Merchant payments,158289353,126423430586.42947
+bihar,2022,2,Recharge & bill payments,36950622,17225668601.948982
+bihar,2022,2,Financial Services,124199,116203820.91131489
+bihar,2022,2,Others,661424,247541289.12967217
+bihar,2022,3,Merchant payments,198273336,137873615624.72937
+bihar,2022,3,Peer-to-peer payments,192304951,632747186972.1919
+bihar,2022,3,Recharge & bill payments,46044353,20417791249.028316
+bihar,2022,3,Financial Services,179533,161987346.1868727
+bihar,2022,3,Others,565212,245905365.7791165
+bihar,2022,4,Merchant payments,243777692,172924170171.63205
+bihar,2022,4,Peer-to-peer payments,225487662,739870172148.0806
+bihar,2022,4,Recharge & bill payments,47054083,22729599211.247635
+bihar,2022,4,Financial Services,205989,199208429.5113938
+bihar,2022,4,Others,559223,288999714.3604311
+bihar,2023,1,Merchant payments,251601655,175053265606.0
+bihar,2023,1,Peer-to-peer payments,245677870,836428049163.0
+bihar,2023,1,Recharge & bill payments,49781169,27372239431.0
+bihar,2023,1,Financial Services,194601,158138446.0
+bihar,2023,1,Others,575900,265267298.0
+bihar,2023,2,Merchant payments,330603039,214402873623.0
+bihar,2023,2,Peer-to-peer payments,293616270,980139698305.0
+bihar,2023,2,Recharge & bill payments,58928748,31064849666.0
+bihar,2023,2,Financial Services,211722,190366037.0
+bihar,2023,2,Others,573315,248957759.0
+bihar,2023,3,Merchant payments,361940401,206648202575.0
+bihar,2023,3,Peer-to-peer payments,311779356,908446322767.0
+bihar,2023,3,Recharge & bill payments,59732275,32565513931.0
+bihar,2023,3,Financial Services,270376,277782677.0
+bihar,2023,3,Others,516343,215541416.0
+bihar,2023,4,Merchant payments,466122317,273626740927.0
+bihar,2023,4,Peer-to-peer payments,394813298,1121442567078.0
+bihar,2023,4,Recharge & bill payments,62582448,39095012665.0
+bihar,2023,4,Financial Services,333579,342560013.0
+bihar,2023,4,Others,575632,228927732.0
+chandigarh,2021,1,Merchant payments,1799072,1210594490.0981498
+chandigarh,2021,1,Peer-to-peer payments,1472084,5916467167.303293
+chandigarh,2021,1,Recharge & bill payments,678396,451109555.33889335
+chandigarh,2021,1,Financial Services,5111,7700394.761505902
+chandigarh,2021,1,Others,15574,10549252.044153867
+chandigarh,2021,2,Merchant payments,1926913,1390989390.7789688
+chandigarh,2021,2,Peer-to-peer payments,1663559,6541132352.922333
+chandigarh,2021,2,Recharge & bill payments,806710,467698864.6672056
+chandigarh,2021,2,Financial Services,5502,7394941.032842191
+chandigarh,2021,2,Others,14863,10458390.53475552
+chandigarh,2021,3,Merchant payments,3179506,2245390329.2047896
+chandigarh,2021,3,Peer-to-peer payments,2434417,8927868098.340746
+chandigarh,2021,3,Recharge & bill payments,1008585,620437997.3899603
+chandigarh,2021,3,Financial Services,5700,7960844.903971832
+chandigarh,2021,3,Others,21170,14225734.853836158
+chandigarh,2021,4,Merchant payments,4056249,3041038519.8233976
+chandigarh,2021,4,Peer-to-peer payments,2797561,10610461952.107159
+chandigarh,2021,4,Recharge & bill payments,1013153,693790747.2429855
+chandigarh,2021,4,Financial Services,7038,10459431.863661807
+chandigarh,2021,4,Others,24902,17832859.58125159
+chandigarh,2022,1,Merchant payments,4511757,3264574793.4564357
+chandigarh,2022,1,Peer-to-peer payments,3012464,11150701028.605722
+chandigarh,2022,1,Recharge & bill payments,1046187,731347957.2152067
+chandigarh,2022,1,Financial Services,7228,13538635.562948208
+chandigarh,2022,1,Others,22855,14829134.999686666
+chandigarh,2022,2,Merchant payments,6136803,3919372475.5605655
+chandigarh,2022,2,Peer-to-peer payments,3489382,12549248085.111443
+chandigarh,2022,2,Recharge & bill payments,1119367,792957088.5933374
+chandigarh,2022,2,Financial Services,6673,8943857.181076445
+chandigarh,2022,2,Others,20264,12978651.924569944
+chandigarh,2022,3,Merchant payments,7665907,4713972532.82215
+chandigarh,2022,3,Peer-to-peer payments,4423590,14788179156.481958
+chandigarh,2022,3,Recharge & bill payments,1360342,1033530639.9360826
+chandigarh,2022,3,Financial Services,8868,9918740.020967592
+chandigarh,2022,3,Others,19466,14156668.144691642
+chandigarh,2022,4,Merchant payments,10170372,6570336079.954211
+chandigarh,2022,4,Peer-to-peer payments,5951989,20013621495.89691
+chandigarh,2022,4,Recharge & bill payments,1749647,1267654269.1590745
+chandigarh,2022,4,Financial Services,10778,12000766.356404984
+chandigarh,2022,4,Others,22054,16141955.57281622
+chandigarh,2023,1,Merchant payments,6460913,3374931077.0
+chandigarh,2023,1,Peer-to-peer payments,2634119,8623572416.0
+chandigarh,2023,1,Recharge & bill payments,700479,803831354.0
+chandigarh,2023,1,Financial Services,8163,12527258.0
+chandigarh,2023,1,Others,11931,10032289.0
+chandigarh,2023,2,Merchant payments,7747501,3820964178.0
+chandigarh,2023,2,Peer-to-peer payments,3048793,9726960611.0
+chandigarh,2023,2,Recharge & bill payments,737650,845159777.0
+chandigarh,2023,2,Financial Services,8262,11723572.0
+chandigarh,2023,2,Others,11481,9600612.0
+chandigarh,2023,3,Merchant payments,8849667,4339437634.0
+chandigarh,2023,3,Peer-to-peer payments,3410620,10182027091.0
+chandigarh,2023,3,Recharge & bill payments,771020,877282807.0
+chandigarh,2023,3,Financial Services,10756,19516305.0
+chandigarh,2023,3,Others,10102,8519474.0
+chandigarh,2023,4,Merchant payments,9052694,4771466320.0
+chandigarh,2023,4,Peer-to-peer payments,3480727,10531589834.0
+chandigarh,2023,4,Recharge & bill payments,725553,944249351.0
+chandigarh,2023,4,Financial Services,10241,21758309.0
+chandigarh,2023,4,Others,10863,12159187.0
+chhattisgarh,2021,1,Peer-to-peer payments,15621154,55638916992.13896
+chhattisgarh,2021,1,Merchant payments,15222763,10661449529.109669
+chhattisgarh,2021,1,Recharge & bill payments,8456094,3000977538.840563
+chhattisgarh,2021,1,Financial Services,37395,40387648.84021996
+chhattisgarh,2021,1,Others,99031,68111552.62215017
+chhattisgarh,2021,2,Peer-to-peer payments,18387345,62134058797.4359
+chhattisgarh,2021,2,Merchant payments,15369311,12828590761.713423
+chhattisgarh,2021,2,Recharge & bill payments,10764784,3640692364.165052
+chhattisgarh,2021,2,Financial Services,40213,39620256.36433959
+chhattisgarh,2021,2,Others,127767,85809079.54731184
+chhattisgarh,2021,3,Merchant payments,27552743,19905616746.805294
+chhattisgarh,2021,3,Peer-to-peer payments,25447410,80506858751.32883
+chhattisgarh,2021,3,Recharge & bill payments,11039088,4045490947.2382197
+chhattisgarh,2021,3,Financial Services,38817,48855662.40142638
+chhattisgarh,2021,3,Others,159880,99286155.00295877
+chhattisgarh,2021,4,Merchant payments,40526025,29283695601.229546
+chhattisgarh,2021,4,Peer-to-peer payments,32799167,102177997315.68285
+chhattisgarh,2021,4,Recharge & bill payments,11115444,4724827139.9519415
+chhattisgarh,2021,4,Financial Services,55237,66445873.296120845
+chhattisgarh,2021,4,Others,221621,146144588.65236923
+chhattisgarh,2022,1,Merchant payments,48236094,33822547183.04485
+chhattisgarh,2022,1,Peer-to-peer payments,37457039,118393860520.57216
+chhattisgarh,2022,1,Recharge & bill payments,11466264,5442872986.10511
+chhattisgarh,2022,1,Financial Services,52918,55991695.312008664
+chhattisgarh,2022,1,Others,200977,131773069.80038045
+chhattisgarh,2022,2,Merchant payments,61093916,41536371583.74904
+chhattisgarh,2022,2,Peer-to-peer payments,42532112,133534947239.2497
+chhattisgarh,2022,2,Recharge & bill payments,12737942,5949415519.837789
+chhattisgarh,2022,2,Financial Services,41530,46037703.16128763
+chhattisgarh,2022,2,Others,178548,114905117.7834119
+chhattisgarh,2022,3,Merchant payments,84355775,50874051122.3736
+chhattisgarh,2022,3,Peer-to-peer payments,57116149,161027214428.20593
+chhattisgarh,2022,3,Recharge & bill payments,16538894,8069941553.075293
+chhattisgarh,2022,3,Financial Services,55775,61881709.73674865
+chhattisgarh,2022,3,Others,185994,128469268.59740639
+chhattisgarh,2022,4,Merchant payments,97405954,60247141797.94961
+chhattisgarh,2022,4,Peer-to-peer payments,63986789,183672880692.7266
+chhattisgarh,2022,4,Recharge & bill payments,16324117,8376603987.152398
+chhattisgarh,2022,4,Financial Services,63695,81169069.23462963
+chhattisgarh,2022,4,Others,179891,141385263.4082809
+chhattisgarh,2023,1,Merchant payments,115821237,68619935279.0
+chhattisgarh,2023,1,Peer-to-peer payments,76752033,221082684005.0
+chhattisgarh,2023,1,Recharge & bill payments,21896029,11162940453.0
+chhattisgarh,2023,1,Financial Services,72038,65398770.0
+chhattisgarh,2023,1,Others,207620,157977952.0
+chhattisgarh,2023,2,Merchant payments,138222517,78172761996.0
+chhattisgarh,2023,2,Peer-to-peer payments,86887081,243032806463.0
+chhattisgarh,2023,2,Recharge & bill payments,24550623,11714283831.0
+chhattisgarh,2023,2,Financial Services,77813,90235297.0
+chhattisgarh,2023,2,Others,193602,146759167.0
+chhattisgarh,2023,3,Merchant payments,161142673,85645642195.0
+chhattisgarh,2023,3,Peer-to-peer payments,97060888,251466237009.0
+chhattisgarh,2023,3,Recharge & bill payments,25011103,13000613447.0
+chhattisgarh,2023,3,Financial Services,95807,131864372.0
+chhattisgarh,2023,3,Others,182186,135322503.0
+chhattisgarh,2023,4,Merchant payments,185440451,102326470529.0
+chhattisgarh,2023,4,Peer-to-peer payments,110795079,287452814383.0
+chhattisgarh,2023,4,Recharge & bill payments,25330600,13898322691.0
+chhattisgarh,2023,4,Financial Services,115404,174278673.0
+chhattisgarh,2023,4,Others,194798,133148269.0
+dadra-&-nagar-haveli-&-daman-&-diu,2021,1,Peer-to-peer payments,768921,2379220756.2230163
+dadra-&-nagar-haveli-&-daman-&-diu,2021,1,Merchant payments,705821,367522132.38063604
+dadra-&-nagar-haveli-&-daman-&-diu,2021,1,Recharge & bill payments,442926,213177144.73200977
+dadra-&-nagar-haveli-&-daman-&-diu,2021,1,Financial Services,2243,1930008.9716834244
+dadra-&-nagar-haveli-&-daman-&-diu,2021,1,Others,5333,3782868.8861592514
+dadra-&-nagar-haveli-&-daman-&-diu,2021,2,Peer-to-peer payments,843550,2512913026.4279447
+dadra-&-nagar-haveli-&-daman-&-diu,2021,2,Merchant payments,802899,430487473.930562
+dadra-&-nagar-haveli-&-daman-&-diu,2021,2,Recharge & bill payments,471136,208762964.0120024
+dadra-&-nagar-haveli-&-daman-&-diu,2021,2,Financial Services,1826,1763792.6506419359
+dadra-&-nagar-haveli-&-daman-&-diu,2021,2,Others,5672,3741204.3977531465
+dadra-&-nagar-haveli-&-daman-&-diu,2021,3,Merchant payments,1312241,706774071.9381688
+dadra-&-nagar-haveli-&-daman-&-diu,2021,3,Peer-to-peer payments,1262732,3339347400.0643554
+dadra-&-nagar-haveli-&-daman-&-diu,2021,3,Recharge & bill payments,544322,253199754.8745275
+dadra-&-nagar-haveli-&-daman-&-diu,2021,3,Financial Services,2065,2252116.636459231
+dadra-&-nagar-haveli-&-daman-&-diu,2021,3,Others,8110,4365759.277996017
+dadra-&-nagar-haveli-&-daman-&-diu,2021,4,Merchant payments,2013673,1058989463.1650428
+dadra-&-nagar-haveli-&-daman-&-diu,2021,4,Peer-to-peer payments,1577168,4202291071.7106133
+dadra-&-nagar-haveli-&-daman-&-diu,2021,4,Recharge & bill payments,551618,294991582.16815025
+dadra-&-nagar-haveli-&-daman-&-diu,2021,4,Financial Services,2909,3159306.4175118254
+dadra-&-nagar-haveli-&-daman-&-diu,2021,4,Others,11717,6407962.869342193
+dadra-&-nagar-haveli-&-daman-&-diu,2022,1,Merchant payments,2507246,1227972829.6970267
+dadra-&-nagar-haveli-&-daman-&-diu,2022,1,Peer-to-peer payments,1745454,4674787017.541661
+dadra-&-nagar-haveli-&-daman-&-diu,2022,1,Recharge & bill payments,538134,326296370.82357025
+dadra-&-nagar-haveli-&-daman-&-diu,2022,1,Financial Services,2574,2661345.5534556974
+dadra-&-nagar-haveli-&-daman-&-diu,2022,1,Others,9395,5330803.646676767
+dadra-&-nagar-haveli-&-daman-&-diu,2022,2,Merchant payments,3346697,1536859131.3374817
+dadra-&-nagar-haveli-&-daman-&-diu,2022,2,Peer-to-peer payments,1861799,5078832140.606572
+dadra-&-nagar-haveli-&-daman-&-diu,2022,2,Recharge & bill payments,539562,372921225.4254243
+dadra-&-nagar-haveli-&-daman-&-diu,2022,2,Financial Services,1849,2131607.7226029015
+dadra-&-nagar-haveli-&-daman-&-diu,2022,2,Others,9864,4415675.718757721
+dadra-&-nagar-haveli-&-daman-&-diu,2022,3,Merchant payments,3777156,1705567002.0586467
+dadra-&-nagar-haveli-&-daman-&-diu,2022,3,Peer-to-peer payments,2086741,5382949597.510585
+dadra-&-nagar-haveli-&-daman-&-diu,2022,3,Recharge & bill payments,592431,425206924.5270094
+dadra-&-nagar-haveli-&-daman-&-diu,2022,3,Financial Services,2237,3194409.939898855
+dadra-&-nagar-haveli-&-daman-&-diu,2022,3,Others,7056,3729425.46329771
+dadra-&-nagar-haveli-&-daman-&-diu,2022,4,Merchant payments,4415771,1889046056.1988354
+dadra-&-nagar-haveli-&-daman-&-diu,2022,4,Peer-to-peer payments,2215052,5737539058.403507
+dadra-&-nagar-haveli-&-daman-&-diu,2022,4,Recharge & bill payments,548795,426040023.1105018
+dadra-&-nagar-haveli-&-daman-&-diu,2022,4,Financial Services,2495,3169199.262533775
+dadra-&-nagar-haveli-&-daman-&-diu,2022,4,Others,7472,3846409.1057498828
+dadra-&-nagar-haveli-&-daman-&-diu,2023,1,Merchant payments,7184933,2778820380.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,1,Peer-to-peer payments,3623830,9079653826.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,1,Recharge & bill payments,979503,746971431.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,1,Financial Services,3546,2855684.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,1,Others,12173,5789879.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,2,Merchant payments,8331573,3135694669.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,2,Peer-to-peer payments,3962990,9804533561.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,2,Recharge & bill payments,1046280,800283519.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,2,Financial Services,3985,4431276.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,2,Others,12287,5595163.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,3,Merchant payments,9582597,3564710651.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,3,Peer-to-peer payments,4630867,10642329946.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,3,Recharge & bill payments,1139193,878917740.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,3,Financial Services,5572,5268269.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,3,Others,12099,4839857.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,4,Merchant payments,11765508,4318758826.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,4,Peer-to-peer payments,5347152,12234383845.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,4,Recharge & bill payments,1169931,991997355.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,4,Financial Services,5597,7765262.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,4,Others,14185,5154679.0
+delhi,2021,1,Merchant payments,72615587,39861532639.012344
+delhi,2021,1,Peer-to-peer payments,61957428,210823551741.40936
+delhi,2021,1,Recharge & bill payments,21164274,15447408658.778738
+delhi,2021,1,Financial Services,153039,203106852.42387855
+delhi,2021,1,Others,1468676,592745151.8683048
+delhi,2021,2,Merchant payments,75620295,42933366743.23575
+delhi,2021,2,Peer-to-peer payments,68497718,223034955527.75317
+delhi,2021,2,Recharge & bill payments,25026678,15310096462.746447
+delhi,2021,2,Financial Services,158170,190019761.49741396
+delhi,2021,2,Others,854403,472659189.30861247
+delhi,2021,3,Merchant payments,115250887,64006915630.53262
+delhi,2021,3,Peer-to-peer payments,93292876,298005532606.47
+delhi,2021,3,Recharge & bill payments,28427032,20934734871.908962
+delhi,2021,3,Financial Services,144460,220660990.22066334
+delhi,2021,3,Others,1645353,690472449.1489255
+delhi,2021,4,Merchant payments,149204611,88990516304.07437
+delhi,2021,4,Peer-to-peer payments,112380292,376556972334.1598
+delhi,2021,4,Recharge & bill payments,30127352,22290161823.248642
+delhi,2021,4,Financial Services,199280,287950130.24921745
+delhi,2021,4,Others,771824,569713470.6592032
+delhi,2022,1,Merchant payments,174454937,98212381475.57239
+delhi,2022,1,Peer-to-peer payments,125111881,415305045689.30945
+delhi,2022,1,Recharge & bill payments,29435981,22482865572.904938
+delhi,2022,1,Financial Services,195184,271039329.10874933
+delhi,2022,1,Others,1801878,693588769.393249
+delhi,2022,2,Merchant payments,233412802,121657706565.01256
+delhi,2022,2,Peer-to-peer payments,143447534,480685895058.7076
+delhi,2022,2,Recharge & bill payments,32971294,26876059610.022118
+delhi,2022,2,Financial Services,160827,209425798.82013166
+delhi,2022,2,Others,641727,426563425.65446466
+delhi,2022,3,Merchant payments,276635347,134292748569.06271
+delhi,2022,3,Peer-to-peer payments,160580425,509428627035.3385
+delhi,2022,3,Recharge & bill payments,37572389,33177115465.46472
+delhi,2022,3,Financial Services,195218,265479580.4156591
+delhi,2022,3,Others,608782,448676465.8346823
+delhi,2022,4,Merchant payments,305621913,153114813286.24423
+delhi,2022,4,Peer-to-peer payments,171970100,559069397370.8649
+delhi,2022,4,Recharge & bill payments,36775874,31954251758.09231
+delhi,2022,4,Financial Services,228639,299454652.77800566
+delhi,2022,4,Others,606931,477098950.59646183
+delhi,2023,1,Merchant payments,246682850,116053064134.0
+delhi,2023,1,Peer-to-peer payments,135403837,460727324748.0
+delhi,2023,1,Recharge & bill payments,26976608,33945163887.0
+delhi,2023,1,Financial Services,206979,275072622.0
+delhi,2023,1,Others,482829,402484189.0
+delhi,2023,2,Merchant payments,300493650,126927948779.0
+delhi,2023,2,Peer-to-peer payments,151909146,498879007930.0
+delhi,2023,2,Recharge & bill payments,29059235,35251178665.0
+delhi,2023,2,Financial Services,219538,302441499.0
+delhi,2023,2,Others,457429,367938784.0
+delhi,2023,3,Merchant payments,347213404,143772297471.0
+delhi,2023,3,Peer-to-peer payments,167791074,523701514112.0
+delhi,2023,3,Recharge & bill payments,31015600,39925428804.0
+delhi,2023,3,Financial Services,275512,439989766.0
+delhi,2023,3,Others,411393,360021285.0
+delhi,2023,4,Merchant payments,381250463,168766495844.0
+delhi,2023,4,Peer-to-peer payments,185276322,588131157564.0
+delhi,2023,4,Recharge & bill payments,30903762,41889435437.0
+delhi,2023,4,Financial Services,317005,501353917.0
+delhi,2023,4,Others,403194,361276587.0
+goa,2021,1,Peer-to-peer payments,2235456,7553384653.1682
+goa,2021,1,Merchant payments,2195509,1768358976.7158575
+goa,2021,1,Recharge & bill payments,880682,410604192.7268899
+goa,2021,1,Financial Services,8138,12207778.148638733
+goa,2021,1,Others,11764,12687278.26183929
+goa,2021,2,Merchant payments,1869384,1411529033.6650195
+goa,2021,2,Peer-to-peer payments,1866837,6195032351.177256
+goa,2021,2,Recharge & bill payments,953219,383804809.3560881
+goa,2021,2,Financial Services,8303,12371843.844825167
+goa,2021,2,Others,12392,10115549.032816991
+goa,2021,3,Merchant payments,2865625,2143135314.897931
+goa,2021,3,Peer-to-peer payments,2560305,7871092673.137299
+goa,2021,3,Recharge & bill payments,1017351,438838003.22982365
+goa,2021,3,Financial Services,8337,12943224.07382146
+goa,2021,3,Others,16145,12416377.597493527
+goa,2021,4,Merchant payments,5474662,4384250602.937038
+goa,2021,4,Peer-to-peer payments,4408822,13618351952.666094
+goa,2021,4,Recharge & bill payments,1170180,585734312.4063727
+goa,2021,4,Financial Services,11320,17101084.66037453
+goa,2021,4,Others,23775,21819163.1997744
+goa,2022,1,Merchant payments,6364271,4682000388.389215
+goa,2022,1,Peer-to-peer payments,4640380,14449830641.555716
+goa,2022,1,Recharge & bill payments,1177071,646403472.1135541
+goa,2022,1,Financial Services,11677,17490493.19245399
+goa,2022,1,Others,20699,20720407.595174044
+goa,2022,2,Merchant payments,7812998,5736211013.6866455
+goa,2022,2,Peer-to-peer payments,5097942,16372343177.228306
+goa,2022,2,Recharge & bill payments,1279377,738765635.2807853
+goa,2022,2,Financial Services,10666,13192736.02810038
+goa,2022,2,Others,15071,12525197.296362752
+goa,2022,3,Merchant payments,7595135,5112175255.359402
+goa,2022,3,Peer-to-peer payments,4449008,13780955270.352726
+goa,2022,3,Recharge & bill payments,1122869,657115143.5357426
+goa,2022,3,Financial Services,9992,12650738.420843877
+goa,2022,3,Others,11683,11368868.03761505
+goa,2022,4,Merchant payments,10319138,6739205748.43176
+goa,2022,4,Peer-to-peer payments,5652373,17421974714.962345
+goa,2022,4,Recharge & bill payments,1195865,734121700.6400625
+goa,2022,4,Financial Services,12147,15705663.126967767
+goa,2022,4,Others,13151,13978544.178016864
+goa,2023,1,Merchant payments,14273665,9074816758.0
+goa,2023,1,Peer-to-peer payments,8071768,24773922296.0
+goa,2023,1,Recharge & bill payments,1816029,1197558557.0
+goa,2023,1,Financial Services,16209,32648574.0
+goa,2023,1,Others,17399,18019590.0
+goa,2023,2,Merchant payments,15990744,10146039934.0
+goa,2023,2,Peer-to-peer payments,8589659,26985284919.0
+goa,2023,2,Recharge & bill payments,1917200,1239783487.0
+goa,2023,2,Financial Services,17352,25141843.0
+goa,2023,2,Others,15635,15956760.0
+goa,2023,3,Merchant payments,16565190,10365884105.0
+goa,2023,3,Peer-to-peer payments,8489945,25735484138.0
+goa,2023,3,Recharge & bill payments,1913363,1234664127.0
+goa,2023,3,Financial Services,17422,26274694.0
+goa,2023,3,Others,13808,12872910.0
+goa,2023,4,Merchant payments,21003656,12478698529.0
+goa,2023,4,Peer-to-peer payments,10430430,30342597216.0
+goa,2023,4,Recharge & bill payments,1991324,1413113823.0
+goa,2023,4,Financial Services,20827,38067531.0
+goa,2023,4,Others,14741,15194458.0
+gujarat,2021,1,Peer-to-peer payments,36427493,144818968373.02933
+gujarat,2021,1,Merchant payments,35815382,26512643894.003174
+gujarat,2021,1,Recharge & bill payments,22088838,11996115292.377842
+gujarat,2021,1,Financial Services,126380,137612317.73580322
+gujarat,2021,1,Others,316472,235440836.3042438
+gujarat,2021,2,Merchant payments,42593432,33542305033.829506
+gujarat,2021,2,Peer-to-peer payments,41642387,162483567902.30194
+gujarat,2021,2,Recharge & bill payments,27127405,13750783181.944221
+gujarat,2021,2,Financial Services,128647,136119996.7022825
+gujarat,2021,2,Others,349525,249278437.33914098
+gujarat,2021,3,Merchant payments,62934471,48197579736.51646
+gujarat,2021,3,Peer-to-peer payments,56134212,208013326600.62402
+gujarat,2021,3,Recharge & bill payments,29580901,15945997372.058683
+gujarat,2021,3,Financial Services,125167,163304131.1436523
+gujarat,2021,3,Others,473656,304418273.24545926
+gujarat,2021,4,Merchant payments,84846502,68717933161.8696
+gujarat,2021,4,Peer-to-peer payments,67301686,254338740726.63605
+gujarat,2021,4,Recharge & bill payments,30072479,18739034341.66239
+gujarat,2021,4,Financial Services,175393,209214620.7057898
+gujarat,2021,4,Others,591265,377657202.7539646
+gujarat,2022,1,Merchant payments,101648378,79563412221.78397
+gujarat,2022,1,Peer-to-peer payments,77768758,292439274688.30835
+gujarat,2022,1,Recharge & bill payments,30473298,20042066374.66357
+gujarat,2022,1,Financial Services,160423,187077879.38466492
+gujarat,2022,1,Others,496289,316261089.4073821
+gujarat,2022,2,Merchant payments,131610193,95585623258.23604
+gujarat,2022,2,Peer-to-peer payments,86423696,326945780476.59766
+gujarat,2022,2,Recharge & bill payments,33424931,23844933238.40894
+gujarat,2022,2,Financial Services,125180,142685436.4192669
+gujarat,2022,2,Others,468796,278978567.1836352
+gujarat,2022,3,Merchant payments,161264265,109018764232.99393
+gujarat,2022,3,Peer-to-peer payments,103034790,359338045092.0105
+gujarat,2022,3,Recharge & bill payments,38383683,28649040040.502144
+gujarat,2022,3,Financial Services,152053,162173602.84596294
+gujarat,2022,3,Others,404941,269479241.0969004
+gujarat,2022,4,Merchant payments,186533503,125585214989.03009
+gujarat,2022,4,Peer-to-peer payments,114868478,411053364214.2685
+gujarat,2022,4,Recharge & bill payments,39167297,30789927498.953297
+gujarat,2022,4,Financial Services,179101,194314203.00804448
+gujarat,2022,4,Others,407639,295484431.2780074
+gujarat,2023,1,Merchant payments,199359623,123421554216.0
+gujarat,2023,1,Peer-to-peer payments,120907384,436337923470.0
+gujarat,2023,1,Recharge & bill payments,41649002,37570733166.0
+gujarat,2023,1,Financial Services,180163,200278806.0
+gujarat,2023,1,Others,415154,295699148.0
+gujarat,2023,2,Merchant payments,239396654,135256737974.0
+gujarat,2023,2,Peer-to-peer payments,132035120,470150906708.0
+gujarat,2023,2,Recharge & bill payments,44902296,39506073738.0
+gujarat,2023,2,Financial Services,191053,225104195.0
+gujarat,2023,2,Others,397430,268385910.0
+gujarat,2023,3,Merchant payments,279651861,155597205179.0
+gujarat,2023,3,Peer-to-peer payments,151754885,508236930735.0
+gujarat,2023,3,Recharge & bill payments,47284770,43342854631.0
+gujarat,2023,3,Financial Services,246300,311377540.0
+gujarat,2023,3,Others,365774,248668365.0
+gujarat,2023,4,Merchant payments,319459808,179560004574.0
+gujarat,2023,4,Peer-to-peer payments,166959749,567135968086.0
+gujarat,2023,4,Recharge & bill payments,47046378,47786850776.0
+gujarat,2023,4,Financial Services,271611,349727923.0
+gujarat,2023,4,Others,378032,254647715.0
+haryana,2021,1,Merchant payments,39363588,23389100227.155342
+haryana,2021,1,Peer-to-peer payments,36764622,135970636784.61835
+haryana,2021,1,Recharge & bill payments,13680353,9260346909.440674
+haryana,2021,1,Financial Services,79784,99672809.99228218
+haryana,2021,1,Others,364437,218544351.22172093
+haryana,2021,2,Merchant payments,45335533,29119078263.957985
+haryana,2021,2,Peer-to-peer payments,44086559,161073685336.6668
+haryana,2021,2,Recharge & bill payments,15861047,9839496894.971409
+haryana,2021,2,Financial Services,85821,97238136.09517692
+haryana,2021,2,Others,311896,227855606.99266592
+haryana,2021,3,Merchant payments,66885213,40190922826.60629
+haryana,2021,3,Peer-to-peer payments,55929958,188548678300.5247
+haryana,2021,3,Recharge & bill payments,17087955,11681457468.964512
+haryana,2021,3,Financial Services,77496,116592181.46997279
+haryana,2021,3,Others,479071,289441481.64370304
+haryana,2021,4,Merchant payments,84993587,56325102920.50671
+haryana,2021,4,Peer-to-peer payments,66548306,238638993818.09595
+haryana,2021,4,Recharge & bill payments,17632752,13817258646.066364
+haryana,2021,4,Financial Services,105050,151421306.61683068
+haryana,2021,4,Others,407280,307822609.17479354
+haryana,2022,1,Merchant payments,98346418,62565728158.2885
+haryana,2022,1,Peer-to-peer payments,74499889,263547240999.68338
+haryana,2022,1,Recharge & bill payments,18494827,14765350795.965681
+haryana,2022,1,Financial Services,107240,146586164.62792295
+haryana,2022,1,Others,540235,279136534.21161634
+haryana,2022,2,Merchant payments,130033573,76926347115.76375
+haryana,2022,2,Peer-to-peer payments,84219451,300504797205.2718
+haryana,2022,2,Recharge & bill payments,20011709,17457331653.445232
+haryana,2022,2,Financial Services,89805,120610061.5284536
+haryana,2022,2,Others,345424,224949213.49711913
+haryana,2022,3,Merchant payments,151278013,87063736519.87311
+haryana,2022,3,Peer-to-peer payments,95071203,319374569105.9015
+haryana,2022,3,Recharge & bill payments,22592966,21247984018.682095
+haryana,2022,3,Financial Services,111032,144937203.2864578
+haryana,2022,3,Others,308596,223267730.28330007
+haryana,2022,4,Merchant payments,169685872,102918159834.12416
+haryana,2022,4,Peer-to-peer payments,102993798,364514204185.1917
+haryana,2022,4,Recharge & bill payments,23545059,22666085169.84729
+haryana,2022,4,Financial Services,118488,152488074.9943577
+haryana,2022,4,Others,305148,239722615.94605047
+haryana,2023,1,Merchant payments,220693824,114248076004.0
+haryana,2023,1,Peer-to-peer payments,128879993,443424820679.0
+haryana,2023,1,Recharge & bill payments,31210728,32978369763.0
+haryana,2023,1,Financial Services,158036,217615573.0
+haryana,2023,1,Others,375883,281741717.0
+haryana,2023,2,Merchant payments,275974807,130133751625.0
+haryana,2023,2,Peer-to-peer payments,147382711,495834929236.0
+haryana,2023,2,Recharge & bill payments,33655091,35262651840.0
+haryana,2023,2,Financial Services,172309,259162565.0
+haryana,2023,2,Others,351272,251633370.0
+haryana,2023,3,Merchant payments,310148821,140917418482.0
+haryana,2023,3,Peer-to-peer payments,156760079,498555993196.0
+haryana,2023,3,Recharge & bill payments,34105227,37490386949.0
+haryana,2023,3,Financial Services,198713,304618547.0
+haryana,2023,3,Others,306638,223563566.0
+haryana,2023,4,Merchant payments,343440148,167695632461.0
+haryana,2023,4,Peer-to-peer payments,175429519,571466808865.0
+haryana,2023,4,Recharge & bill payments,35320482,42514330771.0
+haryana,2023,4,Financial Services,238826,371355840.0
+haryana,2023,4,Others,319258,222356663.0
+himachal-pradesh,2021,1,Peer-to-peer payments,2845733,11358078843.572702
+himachal-pradesh,2021,1,Recharge & bill payments,2547359,948929031.6443391
+himachal-pradesh,2021,1,Merchant payments,2186946,1778219850.8347864
+himachal-pradesh,2021,1,Financial Services,12561,16554205.504427344
+himachal-pradesh,2021,1,Others,21430,18764977.931273177
+himachal-pradesh,2021,2,Peer-to-peer payments,3340531,13035543546.66397
+himachal-pradesh,2021,2,Recharge & bill payments,3216602,1045789841.916208
+himachal-pradesh,2021,2,Merchant payments,2883209,2378084375.199477
+himachal-pradesh,2021,2,Financial Services,14642,16428390.62373627
+himachal-pradesh,2021,2,Others,28918,19788385.405835297
+himachal-pradesh,2021,3,Peer-to-peer payments,4455153,16560383923.204865
+himachal-pradesh,2021,3,Merchant payments,4198808,3524434949.634083
+himachal-pradesh,2021,3,Recharge & bill payments,3359406,1178802736.5280356
+himachal-pradesh,2021,3,Financial Services,14497,22805774.600357123
+himachal-pradesh,2021,3,Others,36303,23834687.160697926
+himachal-pradesh,2021,4,Merchant payments,6062931,5228613146.743451
+himachal-pradesh,2021,4,Peer-to-peer payments,5323397,19568394324.584805
+himachal-pradesh,2021,4,Recharge & bill payments,3211367,1278824361.837138
+himachal-pradesh,2021,4,Financial Services,18198,24809740.714031782
+himachal-pradesh,2021,4,Others,50971,35578926.74639452
+himachal-pradesh,2022,1,Merchant payments,7030946,5558905677.966259
+himachal-pradesh,2022,1,Peer-to-peer payments,5718936,19473276901.331963
+himachal-pradesh,2022,1,Recharge & bill payments,3271665,1429960686.7669475
+himachal-pradesh,2022,1,Financial Services,19314,24442138.15399971
+himachal-pradesh,2022,1,Others,47319,31862035.713640407
+himachal-pradesh,2022,2,Merchant payments,10591420,7697399368.089639
+himachal-pradesh,2022,2,Peer-to-peer payments,7109948,24407668318.014194
+himachal-pradesh,2022,2,Recharge & bill payments,3520538,1553155243.3951051
+himachal-pradesh,2022,2,Financial Services,16901,20627276.079190243
+himachal-pradesh,2022,2,Others,52564,30257752.66416522
+himachal-pradesh,2022,3,Merchant payments,12686960,8511266152.669347
+himachal-pradesh,2022,3,Peer-to-peer payments,8330778,27039659316.468132
+himachal-pradesh,2022,3,Recharge & bill payments,4083168,1780405740.3941154
+himachal-pradesh,2022,3,Financial Services,21293,22686931.870640453
+himachal-pradesh,2022,3,Others,42669,26764547.138168834
+himachal-pradesh,2022,4,Merchant payments,15297492,10280295883.656351
+himachal-pradesh,2022,4,Peer-to-peer payments,9284824,29629346091.977356
+himachal-pradesh,2022,4,Recharge & bill payments,3907023,1810538524.3215194
+himachal-pradesh,2022,4,Financial Services,24342,31775337.436365627
+himachal-pradesh,2022,4,Others,41455,27387394.982090995
+himachal-pradesh,2023,1,Merchant payments,14694013,9023136407.0
+himachal-pradesh,2023,1,Peer-to-peer payments,8637695,26709451358.0
+himachal-pradesh,2023,1,Recharge & bill payments,3901516,1950250571.0
+himachal-pradesh,2023,1,Financial Services,25722,30757925.0
+himachal-pradesh,2023,1,Others,42780,27351473.0
+himachal-pradesh,2023,2,Merchant payments,19954117,11643011071.0
+himachal-pradesh,2023,2,Peer-to-peer payments,10781507,33008088763.0
+himachal-pradesh,2023,2,Recharge & bill payments,4247339,2159052653.0
+himachal-pradesh,2023,2,Financial Services,27709,34689932.0
+himachal-pradesh,2023,2,Others,50923,30221299.0
+himachal-pradesh,2023,3,Merchant payments,19233611,10559011464.0
+himachal-pradesh,2023,3,Peer-to-peer payments,9983786,29239694406.0
+himachal-pradesh,2023,3,Recharge & bill payments,4046932,1991652882.0
+himachal-pradesh,2023,3,Financial Services,27958,41972330.0
+himachal-pradesh,2023,3,Others,44767,22240555.0
+himachal-pradesh,2023,4,Merchant payments,23387107,12903037462.0
+himachal-pradesh,2023,4,Peer-to-peer payments,11365164,33158062287.0
+himachal-pradesh,2023,4,Recharge & bill payments,3816711,2143949720.0
+himachal-pradesh,2023,4,Financial Services,33097,51956047.0
+himachal-pradesh,2023,4,Others,49760,23241048.0
+jammu-&-kashmir,2021,1,Peer-to-peer payments,2800201,14801220301.14875
+jammu-&-kashmir,2021,1,Recharge & bill payments,2554798,663747765.6760966
+jammu-&-kashmir,2021,1,Merchant payments,1527253,1605408313.4781337
+jammu-&-kashmir,2021,1,Financial Services,17276,20848657.8594191
+jammu-&-kashmir,2021,1,Others,98042,47124854.989329115
+jammu-&-kashmir,2021,2,Peer-to-peer payments,3955437,19502438177.8094
+jammu-&-kashmir,2021,2,Recharge & bill payments,3568970,892467613.5545956
+jammu-&-kashmir,2021,2,Merchant payments,2378307,2343370985.5822287
+jammu-&-kashmir,2021,2,Financial Services,19432,21897796.187056318
+jammu-&-kashmir,2021,2,Others,105673,53580855.45836207
+jammu-&-kashmir,2021,3,Peer-to-peer payments,5621108,26562997915.198593
+jammu-&-kashmir,2021,3,Recharge & bill payments,4192099,1126801385.0108979
+jammu-&-kashmir,2021,3,Merchant payments,3197489,3818849262.990345
+jammu-&-kashmir,2021,3,Financial Services,16071,27585395.493344467
+jammu-&-kashmir,2021,3,Others,124274,62209689.3389434
+jammu-&-kashmir,2021,4,Peer-to-peer payments,6852001,31444247707.630074
+jammu-&-kashmir,2021,4,Merchant payments,5399465,6026170895.591109
+jammu-&-kashmir,2021,4,Recharge & bill payments,4358892,1334473410.4377313
+jammu-&-kashmir,2021,4,Financial Services,20269,34425387.51761782
+jammu-&-kashmir,2021,4,Others,160001,86920024.59513804
+jammu-&-kashmir,2022,1,Peer-to-peer payments,6263588,25881919928.642838
+jammu-&-kashmir,2022,1,Merchant payments,5769426,5903944370.148529
+jammu-&-kashmir,2022,1,Recharge & bill payments,4046350,1253753685.6124904
+jammu-&-kashmir,2022,1,Financial Services,20506,28915576.119299565
+jammu-&-kashmir,2022,1,Others,145441,79330065.6359112
+jammu-&-kashmir,2022,2,Merchant payments,9917899,8541811640.294408
+jammu-&-kashmir,2022,2,Peer-to-peer payments,8948548,35973490940.6326
+jammu-&-kashmir,2022,2,Recharge & bill payments,4759941,1631580783.9159238
+jammu-&-kashmir,2022,2,Financial Services,17495,23857762.100494668
+jammu-&-kashmir,2022,2,Others,169864,83549709.69216739
+jammu-&-kashmir,2022,3,Merchant payments,9594459,8056512904.560925
+jammu-&-kashmir,2022,3,Peer-to-peer payments,8391981,31280124357.943665
+jammu-&-kashmir,2022,3,Recharge & bill payments,4397779,1538833023.8071973
+jammu-&-kashmir,2022,3,Financial Services,16502,21281997.61037215
+jammu-&-kashmir,2022,3,Others,133673,66802218.32606816
+jammu-&-kashmir,2022,4,Merchant payments,13060020,9463119176.828749
+jammu-&-kashmir,2022,4,Peer-to-peer payments,9209773,33017162449.59025
+jammu-&-kashmir,2022,4,Recharge & bill payments,4885856,1738113554.2451303
+jammu-&-kashmir,2022,4,Financial Services,17803,26804683.92881795
+jammu-&-kashmir,2022,4,Others,142706,70096050.90090424
+jammu-&-kashmir,2023,1,Merchant payments,19258641,12262102502.0
+jammu-&-kashmir,2023,1,Peer-to-peer payments,12527159,41006666634.0
+jammu-&-kashmir,2023,1,Recharge & bill payments,6894943,2522356131.0
+jammu-&-kashmir,2023,1,Financial Services,26119,30772190.0
+jammu-&-kashmir,2023,1,Others,220382,99850124.0
+jammu-&-kashmir,2023,2,Merchant payments,27968919,16519042612.0
+jammu-&-kashmir,2023,2,Peer-to-peer payments,17988275,56687068768.0
+jammu-&-kashmir,2023,2,Recharge & bill payments,8374394,3181150839.0
+jammu-&-kashmir,2023,2,Financial Services,27724,36616737.0
+jammu-&-kashmir,2023,2,Others,228987,106126424.0
+jammu-&-kashmir,2023,3,Merchant payments,33831979,20030764520.0
+jammu-&-kashmir,2023,3,Peer-to-peer payments,20589029,62320529579.0
+jammu-&-kashmir,2023,3,Recharge & bill payments,9247909,3508619105.0
+jammu-&-kashmir,2023,3,Financial Services,31473,61895606.0
+jammu-&-kashmir,2023,3,Others,203189,94339616.0
+jammu-&-kashmir,2023,4,Merchant payments,38724913,23286334977.0
+jammu-&-kashmir,2023,4,Peer-to-peer payments,20930306,65658312220.0
+jammu-&-kashmir,2023,4,Recharge & bill payments,9268356,3954471487.0
+jammu-&-kashmir,2023,4,Financial Services,36281,80127905.0
+jammu-&-kashmir,2023,4,Others,207276,90895171.0
+jharkhand,2021,1,Peer-to-peer payments,19151083,69198235576.72797
+jharkhand,2021,1,Merchant payments,17489113,11545580927.24733
+jharkhand,2021,1,Recharge & bill payments,7826608,2888409672.132301
+jharkhand,2021,1,Financial Services,50526,54836609.32711602
+jharkhand,2021,1,Others,104333,62290337.70487929
+jharkhand,2021,2,Peer-to-peer payments,24184568,86037113965.37598
+jharkhand,2021,2,Merchant payments,19041292,14731458451.37311
+jharkhand,2021,2,Recharge & bill payments,10583445,3531023352.488878
+jharkhand,2021,2,Financial Services,54379,57959229.95440879
+jharkhand,2021,2,Others,138461,75088312.26558907
+jharkhand,2021,3,Peer-to-peer payments,30113326,97742557031.75543
+jharkhand,2021,3,Merchant payments,29687162,19954619973.19194
+jharkhand,2021,3,Recharge & bill payments,10742405,4029136911.757236
+jharkhand,2021,3,Financial Services,51289,65035270.30823113
+jharkhand,2021,3,Others,201520,99665931.8402131
+jharkhand,2021,4,Merchant payments,45007900,30397134744.16734
+jharkhand,2021,4,Peer-to-peer payments,39476282,130461675107.99458
+jharkhand,2021,4,Recharge & bill payments,11173974,4920513757.583611
+jharkhand,2021,4,Financial Services,72802,82938673.40787342
+jharkhand,2021,4,Others,278084,154856720.55251962
+jharkhand,2022,1,Merchant payments,53218047,35404682302.81973
+jharkhand,2022,1,Peer-to-peer payments,45881799,153327336656.7779
+jharkhand,2022,1,Recharge & bill payments,11502811,5765898871.819412
+jharkhand,2022,1,Financial Services,67502,72095750.37612481
+jharkhand,2022,1,Others,241051,130193505.37404194
+jharkhand,2022,2,Merchant payments,67435024,44149892984.34711
+jharkhand,2022,2,Peer-to-peer payments,52086790,175208899196.82
+jharkhand,2022,2,Recharge & bill payments,13145888,6119623547.3009
+jharkhand,2022,2,Financial Services,50361,53281830.624961995
+jharkhand,2022,2,Others,207212,104530269.04482636
+jharkhand,2022,3,Merchant payments,74816586,45850919744.1592
+jharkhand,2022,3,Peer-to-peer payments,57285937,176549466282.04382
+jharkhand,2022,3,Recharge & bill payments,14462031,6838978157.223744
+jharkhand,2022,3,Financial Services,68467,69016067.83164982
+jharkhand,2022,3,Others,182311,104503812.69942513
+jharkhand,2022,4,Merchant payments,91863987,57173653531.6919
+jharkhand,2022,4,Peer-to-peer payments,68045210,212953650396.96683
+jharkhand,2022,4,Recharge & bill payments,15110623,7625380765.3711195
+jharkhand,2022,4,Financial Services,81074,89276259.66683595
+jharkhand,2022,4,Others,199198,129776494.88471407
+jharkhand,2023,1,Merchant payments,126431470,72343574616.0
+jharkhand,2023,1,Peer-to-peer payments,91879570,283548545074.0
+jharkhand,2023,1,Recharge & bill payments,21800176,11236559383.0
+jharkhand,2023,1,Financial Services,99366,97678666.0
+jharkhand,2023,1,Others,247521,144978282.0
+jharkhand,2023,2,Merchant payments,156552949,85510419374.0
+jharkhand,2023,2,Peer-to-peer payments,107475200,324260678898.0
+jharkhand,2023,2,Recharge & bill payments,24866991,12206164188.0
+jharkhand,2023,2,Financial Services,101922,101245470.0
+jharkhand,2023,2,Others,236831,136219578.0
+jharkhand,2023,3,Merchant payments,176986470,87850272164.0
+jharkhand,2023,3,Peer-to-peer payments,116215262,317385101261.0
+jharkhand,2023,3,Recharge & bill payments,24694215,12857936385.0
+jharkhand,2023,3,Financial Services,126439,166648089.0
+jharkhand,2023,3,Others,215040,124466121.0
+jharkhand,2023,4,Merchant payments,210139266,107902251886.0
+jharkhand,2023,4,Peer-to-peer payments,138921302,375782050730.0
+jharkhand,2023,4,Recharge & bill payments,25084140,14700179395.0
+jharkhand,2023,4,Financial Services,157092,207103239.0
+jharkhand,2023,4,Others,236562,128519675.0
+karnataka,2021,1,Merchant payments,279599017,117959690729.6494
+karnataka,2021,1,Peer-to-peer payments,190894164,610937002732.095
+karnataka,2021,1,Recharge & bill payments,52261651,25111731675.64637
+karnataka,2021,1,Financial Services,297710,475815041.81600165
+karnataka,2021,1,Others,744950,511117233.18647754
+karnataka,2021,2,Merchant payments,244460862,124624417935.05894
+karnataka,2021,2,Peer-to-peer payments,216539959,684035748184.4377
+karnataka,2021,2,Recharge & bill payments,68599238,28272314719.07621
+karnataka,2021,2,Financial Services,304779,456933673.9871358
+karnataka,2021,2,Others,744208,497736717.48932767
+karnataka,2021,3,Merchant payments,391381353,190563423840.34485
+karnataka,2021,3,Peer-to-peer payments,288462867,908138627418.7012
+karnataka,2021,3,Recharge & bill payments,72168311,33386709060.80711
+karnataka,2021,3,Financial Services,286685,508051800.8625039
+karnataka,2021,3,Others,997323,637927036.8737218
+karnataka,2021,4,Merchant payments,503210623,243754536471.1106
+karnataka,2021,4,Peer-to-peer payments,350032663,1090951587881.0441
+karnataka,2021,4,Recharge & bill payments,76826701,39294350717.405914
+karnataka,2021,4,Financial Services,365769,574240588.1883193
+karnataka,2021,4,Others,1289682,896608692.1244912
+karnataka,2022,1,Merchant payments,588543313,278109650949.8691
+karnataka,2022,1,Peer-to-peer payments,389491586,1243199329198.8584
+karnataka,2022,1,Recharge & bill payments,78206453,43891305256.63388
+karnataka,2022,1,Financial Services,384922,624857963.437548
+karnataka,2022,1,Others,1229133,824344937.0828401
+karnataka,2022,2,Merchant payments,735295388,358016289601.7625
+karnataka,2022,2,Peer-to-peer payments,449723751,1457330278795.186
+karnataka,2022,2,Recharge & bill payments,91137091,50583781089.16758
+karnataka,2022,2,Financial Services,351688,545330283.2377212
+karnataka,2022,2,Others,941042,670434289.8797817
+karnataka,2022,3,Merchant payments,704609552,333606445776.6083
+karnataka,2022,3,Peer-to-peer payments,404084880,1282604186671.1763
+karnataka,2022,3,Recharge & bill payments,79979546,48539011844.07969
+karnataka,2022,3,Financial Services,361312,558132533.414458
+karnataka,2022,3,Others,726038,610455785.7449958
+karnataka,2022,4,Merchant payments,830157371,380643835280.23364
+karnataka,2022,4,Peer-to-peer payments,460041715,1468087523889.2769
+karnataka,2022,4,Recharge & bill payments,87517348,54445900607.2116
+karnataka,2022,4,Financial Services,426795,650217624.1227758
+karnataka,2022,4,Others,767142,689145506.798728
+karnataka,2023,1,Merchant payments,1130908170,476183911608.0
+karnataka,2023,1,Peer-to-peer payments,596731227,1908849346648.0
+karnataka,2023,1,Recharge & bill payments,115567496,83516906348.0
+karnataka,2023,1,Financial Services,541652,829191703.0
+karnataka,2023,1,Others,948644,847870010.0
+karnataka,2023,2,Merchant payments,1282439025,553947152559.0
+karnataka,2023,2,Peer-to-peer payments,655334370,2131661599812.0
+karnataka,2023,2,Recharge & bill payments,128708109,90352839418.0
+karnataka,2023,2,Financial Services,564180,870214613.0
+karnataka,2023,2,Others,821842,767292428.0
+karnataka,2023,3,Merchant payments,1502087676,620261083051.0
+karnataka,2023,3,Peer-to-peer payments,733741628,2267342578479.0
+karnataka,2023,3,Recharge & bill payments,131971913,96428751649.0
+karnataka,2023,3,Financial Services,680721,1117575810.0
+karnataka,2023,3,Others,780364,730906598.0
+karnataka,2023,4,Merchant payments,1631321006,677686159800.0
+karnataka,2023,4,Peer-to-peer payments,796407425,2456912813682.0
+karnataka,2023,4,Recharge & bill payments,135125785,104793796043.0
+karnataka,2023,4,Financial Services,807597,1266275950.0
+karnataka,2023,4,Others,772351,717378908.0
+kerala,2021,1,Peer-to-peer payments,16209203,55336812492.74641
+kerala,2021,1,Merchant payments,16105923,10058436408.184261
+kerala,2021,1,Recharge & bill payments,9837385,3732534739.0436296
+kerala,2021,1,Financial Services,68012,69655547.76092248
+kerala,2021,1,Others,95819,63530974.15939384
+kerala,2021,2,Peer-to-peer payments,17026648,58152644526.04467
+kerala,2021,2,Merchant payments,16135060,11263178335.980885
+kerala,2021,2,Recharge & bill payments,13809151,4645548909.798975
+kerala,2021,2,Financial Services,88830,88370679.95309764
+kerala,2021,2,Others,131344,77063984.37888283
+kerala,2021,3,Merchant payments,25402350,17877677018.10737
+kerala,2021,3,Peer-to-peer payments,23378091,78598482305.73877
+kerala,2021,3,Recharge & bill payments,13979407,5008396079.412957
+kerala,2021,3,Financial Services,85730,101460242.2623948
+kerala,2021,3,Others,182688,100146127.60812962
+kerala,2021,4,Merchant payments,38574904,24589454633.018272
+kerala,2021,4,Peer-to-peer payments,29075528,92774490034.55844
+kerala,2021,4,Recharge & bill payments,13781815,5689390023.204552
+kerala,2021,4,Financial Services,108232,128238698.74055986
+kerala,2021,4,Others,283262,160563553.84187678
+kerala,2022,1,Merchant payments,47778743,28685388646.415367
+kerala,2022,1,Peer-to-peer payments,33089518,104623270223.31714
+kerala,2022,1,Recharge & bill payments,14042317,6373570715.969071
+kerala,2022,1,Financial Services,134370,158926455.91425735
+kerala,2022,1,Others,236017,147786423.0782508
+kerala,2022,2,Merchant payments,55730158,34395023155.77253
+kerala,2022,2,Peer-to-peer payments,35630060,112813716119.4625
+kerala,2022,2,Recharge & bill payments,14701207,7230489227.091859
+kerala,2022,2,Financial Services,110336,133436809.9132271
+kerala,2022,2,Others,193561,123664236.88435228
+kerala,2022,3,Merchant payments,64984061,37852759989.759125
+kerala,2022,3,Peer-to-peer payments,38774832,116414003145.11606
+kerala,2022,3,Recharge & bill payments,15289755,7709237374.351864
+kerala,2022,3,Financial Services,146673,162861560.07391134
+kerala,2022,3,Others,167583,121557246.12854591
+kerala,2022,4,Merchant payments,74647115,40607857085.646095
+kerala,2022,4,Peer-to-peer payments,42471676,124564727703.60559
+kerala,2022,4,Recharge & bill payments,15520670,8075692517.275558
+kerala,2022,4,Financial Services,164334,191307058.1462068
+kerala,2022,4,Others,156673,120224235.03622031
+kerala,2023,1,Merchant payments,84583249,44370168231.0
+kerala,2023,1,Peer-to-peer payments,46080274,138477919269.0
+kerala,2023,1,Recharge & bill payments,16629085,10446589963.0
+kerala,2023,1,Financial Services,160843,201389795.0
+kerala,2023,1,Others,168114,141022419.0
+kerala,2023,2,Merchant payments,90195971,49220348954.0
+kerala,2023,2,Peer-to-peer payments,48068911,146558117198.0
+kerala,2023,2,Recharge & bill payments,17613119,11702913951.0
+kerala,2023,2,Financial Services,162540,193012060.0
+kerala,2023,2,Others,130076,122278822.0
+kerala,2023,3,Merchant payments,100971920,54395884988.0
+kerala,2023,3,Peer-to-peer payments,51765006,153333984681.0
+kerala,2023,3,Recharge & bill payments,17617414,12247443070.0
+kerala,2023,3,Financial Services,186185,243267285.0
+kerala,2023,3,Others,118126,112033305.0
+kerala,2023,4,Merchant payments,108137761,55180695119.0
+kerala,2023,4,Peer-to-peer payments,54694399,156361217618.0
+kerala,2023,4,Recharge & bill payments,16678550,13074043821.0
+kerala,2023,4,Financial Services,225961,270144459.0
+kerala,2023,4,Others,106422,99220448.0
+ladakh,2021,1,Peer-to-peer payments,141894,869999786.1513934
+ladakh,2021,1,Recharge & bill payments,72719,35459532.4121063
+ladakh,2021,1,Merchant payments,58875,74977913.47237433
+ladakh,2021,1,Financial Services,629,1455016.148284281
+ladakh,2021,1,Others,1298,1527565.0627209258
+ladakh,2021,2,Peer-to-peer payments,209818,1259044412.4358737
+ladakh,2021,2,Recharge & bill payments,95458,44754721.82815341
+ladakh,2021,2,Merchant payments,92078,119608470.0411553
+ladakh,2021,2,Financial Services,755,1756762.1471181023
+ladakh,2021,2,Others,1607,2094729.0180191218
+ladakh,2021,3,Peer-to-peer payments,330919,1917311078.1287262
+ladakh,2021,3,Merchant payments,135108,233260756.5088715
+ladakh,2021,3,Recharge & bill payments,121856,58750081.8151172
+ladakh,2021,3,Financial Services,900,1911625.5446910746
+ladakh,2021,3,Others,2204,2751201.9371823343
+ladakh,2021,4,Peer-to-peer payments,337120,1804428550.1884875
+ladakh,2021,4,Merchant payments,169110,284786365.9296017
+ladakh,2021,4,Recharge & bill payments,120607,58403893.47253243
+ladakh,2021,4,Financial Services,912,3068708.947120995
+ladakh,2021,4,Others,2438,2847620.2425241945
+ladakh,2022,1,Peer-to-peer payments,343041,1685241980.664183
+ladakh,2022,1,Merchant payments,167100,279354508.988595
+ladakh,2022,1,Recharge & bill payments,116486,56203999.28920926
+ladakh,2022,1,Financial Services,1247,2023327.6779848374
+ladakh,2022,1,Others,2141,2217102.222236882
+ladakh,2022,2,Peer-to-peer payments,608870,2941624382.277109
+ladakh,2022,2,Merchant payments,346146,508439376.68091977
+ladakh,2022,2,Recharge & bill payments,158996,88531677.99442025
+ladakh,2022,2,Financial Services,1585,2487560.1853386
+ladakh,2022,2,Others,2476,2235180.8584825676
+ladakh,2022,3,Peer-to-peer payments,659896,2955729492.4985514
+ladakh,2022,3,Merchant payments,367022,551472983.879604
+ladakh,2022,3,Recharge & bill payments,160269,94288872.34747365
+ladakh,2022,3,Financial Services,1555,1815866.8961950848
+ladakh,2022,3,Others,2116,1892134.7520804727
+ladakh,2022,4,Peer-to-peer payments,559259,2350047971.603546
+ladakh,2022,4,Merchant payments,382456,462189599.28430265
+ladakh,2022,4,Recharge & bill payments,138793,79767790.98577228
+ladakh,2022,4,Financial Services,1248,1198715.2123450316
+ladakh,2022,4,Others,1616,1273495.592982805
+ladakh,2023,1,Peer-to-peer payments,796687,3112641857.0
+ladakh,2023,1,Merchant payments,561734,601420766.0
+ladakh,2023,1,Recharge & bill payments,204592,129440564.0
+ladakh,2023,1,Financial Services,1610,3389191.0
+ladakh,2023,1,Others,2623,2128920.0
+ladakh,2023,2,Peer-to-peer payments,1479909,5891146705.0
+ladakh,2023,2,Merchant payments,1121362,1074373616.0
+ladakh,2023,2,Recharge & bill payments,337017,218229701.0
+ladakh,2023,2,Financial Services,1885,4432032.0
+ladakh,2023,2,Others,3642,2921832.0
+ladakh,2023,3,Peer-to-peer payments,1781959,6563524375.0
+ladakh,2023,3,Merchant payments,1429581,1424016428.0
+ladakh,2023,3,Recharge & bill payments,402319,245485697.0
+ladakh,2023,3,Financial Services,3579,14887998.0
+ladakh,2023,3,Others,3928,2657745.0
+ladakh,2023,4,Peer-to-peer payments,1435341,5438596932.0
+ladakh,2023,4,Merchant payments,1375598,1254754525.0
+ladakh,2023,4,Recharge & bill payments,332620,236148603.0
+ladakh,2023,4,Financial Services,3065,11423623.0
+ladakh,2023,4,Others,3594,2063262.0
+lakshadweep,2021,1,Peer-to-peer payments,3942,24823715.017422147
+lakshadweep,2021,1,Recharge & bill payments,3541,1070209.4218526704
+lakshadweep,2021,1,Merchant payments,1537,1040213.7953898906
+lakshadweep,2021,1,Financial Services,19,15929.095105497145
+lakshadweep,2021,1,Others,46,92715.5843109472
+lakshadweep,2021,2,Recharge & bill payments,5499,1745295.828077295
+lakshadweep,2021,2,Peer-to-peer payments,4069,23996417.49366483
+lakshadweep,2021,2,Merchant payments,1743,1525331.9146529401
+lakshadweep,2021,2,Financial Services,29,15052.018496008179
+lakshadweep,2021,2,Others,44,101366.40306045809
+lakshadweep,2021,3,Peer-to-peer payments,5687,34142107.520169854
+lakshadweep,2021,3,Recharge & bill payments,5153,1700287.4734963956
+lakshadweep,2021,3,Merchant payments,2450,2750367.063028222
+lakshadweep,2021,3,Financial Services,48,137227.35390598275
+lakshadweep,2021,3,Others,32,73174.28816768769
+lakshadweep,2021,4,Peer-to-peer payments,7154,44696668.86120765
+lakshadweep,2021,4,Recharge & bill payments,5355,2093901.2918026838
+lakshadweep,2021,4,Merchant payments,2872,4071239.087436496
+lakshadweep,2021,4,Financial Services,27,19994.541946360278
+lakshadweep,2021,4,Others,62,116381.74598782149
+lakshadweep,2022,1,Peer-to-peer payments,7913,48590864.56835763
+lakshadweep,2022,1,Recharge & bill payments,5334,2322580.1695599537
+lakshadweep,2022,1,Merchant payments,3048,3838358.3586293925
+lakshadweep,2022,1,Financial Services,39,38274.22628876488
+lakshadweep,2022,1,Others,63,149355.3310943247
+lakshadweep,2022,2,Peer-to-peer payments,8491,48451728.04746901
+lakshadweep,2022,2,Recharge & bill payments,5366,2386144.714677198
+lakshadweep,2022,2,Merchant payments,3602,4895657.060086848
+lakshadweep,2022,2,Financial Services,59,87127.8249489804
+lakshadweep,2022,2,Others,51,108944.34272364664
+lakshadweep,2022,3,Peer-to-peer payments,7533,40029003.82575238
+lakshadweep,2022,3,Recharge & bill payments,4441,1936538.3067545425
+lakshadweep,2022,3,Merchant payments,3142,5469200.646094429
+lakshadweep,2022,3,Financial Services,64,63629.88416689246
+lakshadweep,2022,3,Others,61,81636.9547320153
+lakshadweep,2022,4,Peer-to-peer payments,8686,47450386.0033243
+lakshadweep,2022,4,Recharge & bill payments,4557,2024739.1542023947
+lakshadweep,2022,4,Merchant payments,3819,5250991.002376802
+lakshadweep,2022,4,Financial Services,35,26453.0247779254
+lakshadweep,2022,4,Others,50,61304.43025482374
+lakshadweep,2023,1,Peer-to-peer payments,14918,73202195.0
+lakshadweep,2023,1,Recharge & bill payments,8287,3929048.0
+lakshadweep,2023,1,Merchant payments,6123,7988014.0
+lakshadweep,2023,1,Financial Services,153,160430.0
+lakshadweep,2023,1,Others,39,42274.0
+lakshadweep,2023,2,Peer-to-peer payments,16924,80630344.0
+lakshadweep,2023,2,Merchant payments,9524,12585603.0
+lakshadweep,2023,2,Recharge & bill payments,8287,4632264.0
+lakshadweep,2023,2,Financial Services,105,52460.0
+lakshadweep,2023,2,Others,78,86767.0
+lakshadweep,2023,3,Peer-to-peer payments,20220,77301147.0
+lakshadweep,2023,3,Merchant payments,14902,12027729.0
+lakshadweep,2023,3,Recharge & bill payments,8577,5093309.0
+lakshadweep,2023,3,Financial Services,16,12540.0
+lakshadweep,2023,3,Others,42,92336.0
+lakshadweep,2023,4,Merchant payments,27931,20455699.0
+lakshadweep,2023,4,Peer-to-peer payments,25886,93623472.0
+lakshadweep,2023,4,Recharge & bill payments,9527,5537222.0
+lakshadweep,2023,4,Financial Services,79,102991.0
+lakshadweep,2023,4,Others,56,111999.0
+madhya-pradesh,2021,1,Merchant payments,84812245,50098244499.50662
+madhya-pradesh,2021,1,Peer-to-peer payments,84070625,279938170703.8171
+madhya-pradesh,2021,1,Recharge & bill payments,32500681,13060914041.039404
+madhya-pradesh,2021,1,Financial Services,169378,161838389.7954778
+madhya-pradesh,2021,1,Others,445569,274786748.1299523
+madhya-pradesh,2021,2,Peer-to-peer payments,99367521,348935762191.10486
+madhya-pradesh,2021,2,Merchant payments,77113464,58839392449.9937
+madhya-pradesh,2021,2,Recharge & bill payments,46118636,17230546398.848663
+madhya-pradesh,2021,2,Financial Services,188726,177313389.66602695
+madhya-pradesh,2021,2,Others,526333,317753606.01156956
+madhya-pradesh,2021,3,Merchant payments,138433772,85885669792.43228
+madhya-pradesh,2021,3,Peer-to-peer payments,127654821,398912712886.4574
+madhya-pradesh,2021,3,Recharge & bill payments,44437315,19025346050.627724
+madhya-pradesh,2021,3,Financial Services,174454,180366422.58245987
+madhya-pradesh,2021,3,Others,742972,408508699.4365407
+madhya-pradesh,2021,4,Merchant payments,197193842,126461098235.02324
+madhya-pradesh,2021,4,Peer-to-peer payments,159649020,507118521843.3588
+madhya-pradesh,2021,4,Recharge & bill payments,46220966,22492766779.156635
+madhya-pradesh,2021,4,Financial Services,247925,246488171.37792647
+madhya-pradesh,2021,4,Others,996331,568617375.5894115
+madhya-pradesh,2022,1,Merchant payments,237691924,143310226696.7226
+madhya-pradesh,2022,1,Peer-to-peer payments,185008444,578201697703.7521
+madhya-pradesh,2022,1,Recharge & bill payments,48870314,25437774564.26215
+madhya-pradesh,2022,1,Financial Services,222923,219927120.15944034
+madhya-pradesh,2022,1,Others,909453,495513514.75128734
+madhya-pradesh,2022,2,Merchant payments,287616385,174183397721.35938
+madhya-pradesh,2022,2,Peer-to-peer payments,202093283,663180522499.3412
+madhya-pradesh,2022,2,Recharge & bill payments,54318983,29125694281.81933
+madhya-pradesh,2022,2,Financial Services,157672,153944499.74490312
+madhya-pradesh,2022,2,Others,713506,381178326.32090586
+madhya-pradesh,2022,3,Merchant payments,391105651,212445928287.3991
+madhya-pradesh,2022,3,Peer-to-peer payments,267013695,780650402034.3962
+madhya-pradesh,2022,3,Recharge & bill payments,72148870,39132574047.51802
+madhya-pradesh,2022,3,Financial Services,240678,236981163.63162854
+madhya-pradesh,2022,3,Others,750665,442608716.71893203
+madhya-pradesh,2022,4,Merchant payments,492999084,272801597092.4764
+madhya-pradesh,2022,4,Peer-to-peer payments,325467851,984255199293.6544
+madhya-pradesh,2022,4,Recharge & bill payments,79289399,45143248068.81734
+madhya-pradesh,2022,4,Financial Services,286931,278304972.64702964
+madhya-pradesh,2022,4,Others,785003,521508120.7286146
+madhya-pradesh,2023,1,Merchant payments,404378350,208281637594.0
+madhya-pradesh,2023,1,Peer-to-peer payments,263524301,809388762719.0
+madhya-pradesh,2023,1,Recharge & bill payments,65818962,43725957842.0
+madhya-pradesh,2023,1,Financial Services,226835,236606773.0
+madhya-pradesh,2023,1,Others,618522,393634973.0
+madhya-pradesh,2023,2,Merchant payments,479498828,236960764220.0
+madhya-pradesh,2023,2,Peer-to-peer payments,294125925,916102516476.0
+madhya-pradesh,2023,2,Recharge & bill payments,73584106,48712706741.0
+madhya-pradesh,2023,2,Financial Services,248905,289207465.0
+madhya-pradesh,2023,2,Others,579296,375754606.0
+madhya-pradesh,2023,3,Merchant payments,567760229,255858070965.0
+madhya-pradesh,2023,3,Peer-to-peer payments,333209928,929775417818.0
+madhya-pradesh,2023,3,Recharge & bill payments,76997837,51434802126.0
+madhya-pradesh,2023,3,Financial Services,318662,408838885.0
+madhya-pradesh,2023,3,Others,525937,344868455.0
+madhya-pradesh,2023,4,Merchant payments,648920525,304240605817.0
+madhya-pradesh,2023,4,Peer-to-peer payments,373769167,1063381622538.0
+madhya-pradesh,2023,4,Recharge & bill payments,78674422,58049633385.0
+madhya-pradesh,2023,4,Financial Services,394962,494411136.0
+madhya-pradesh,2023,4,Others,535537,336607811.0
+maharashtra,2021,1,Merchant payments,253043309,129493046208.15726
+maharashtra,2021,1,Peer-to-peer payments,187021609,599213284361.7993
+maharashtra,2021,1,Recharge & bill payments,76389103,40057211827.15962
+maharashtra,2021,1,Financial Services,439551,492900202.68315214
+maharashtra,2021,1,Others,966668,630909553.4508264
+maharashtra,2021,2,Merchant payments,247194293,150864465217.02304
+maharashtra,2021,2,Peer-to-peer payments,228551961,719859665693.5271
+maharashtra,2021,2,Recharge & bill payments,96271138,43154405548.44597
+maharashtra,2021,2,Financial Services,504252,536780917.0359157
+maharashtra,2021,2,Others,1094842,699738247.6695637
+maharashtra,2021,3,Merchant payments,390051884,216701984638.98932
+maharashtra,2021,3,Peer-to-peer payments,296951706,890860873379.5576
+maharashtra,2021,3,Recharge & bill payments,103943973,50242023586.056046
+maharashtra,2021,3,Financial Services,448646,579098938.658318
+maharashtra,2021,3,Others,1477851,873324624.1826177
+maharashtra,2021,4,Merchant payments,540351277,305512280091.4157
+maharashtra,2021,4,Peer-to-peer payments,361865450,1109862480618.2227
+maharashtra,2021,4,Recharge & bill payments,105990417,58087950922.43887
+maharashtra,2021,4,Financial Services,606265,707102765.3058928
+maharashtra,2021,4,Others,1918093,1188658731.1175365
+maharashtra,2022,1,Merchant payments,646277671,340240479374.36835
+maharashtra,2022,1,Peer-to-peer payments,411989717,1274889182430.209
+maharashtra,2022,1,Recharge & bill payments,108896881,64507860103.55089
+maharashtra,2022,1,Financial Services,583243,677612619.2786882
+maharashtra,2022,1,Others,1758926,1084139453.7274752
+maharashtra,2022,2,Merchant payments,810961772,428469294407.1603
+maharashtra,2022,2,Peer-to-peer payments,470258043,1501201968773.8115
+maharashtra,2022,2,Recharge & bill payments,124280427,75110969246.16316
+maharashtra,2022,2,Financial Services,490152,559321829.4503716
+maharashtra,2022,2,Others,1542719,930827919.303539
+maharashtra,2022,3,Merchant payments,876618082,432250721734.13074
+maharashtra,2022,3,Peer-to-peer payments,483481713,1434565548650.9136
+maharashtra,2022,3,Recharge & bill payments,124545840,79360150487.36568
+maharashtra,2022,3,Financial Services,521362,571583115.6687979
+maharashtra,2022,3,Others,1222420,831183386.4681726
+maharashtra,2022,4,Merchant payments,1025666187,502660888415.46185
+maharashtra,2022,4,Peer-to-peer payments,535142126,1622619308526.9614
+maharashtra,2022,4,Recharge & bill payments,126118544,83576414221.03232
+maharashtra,2022,4,Financial Services,620124,699276779.1906543
+maharashtra,2022,4,Others,1228291,914951674.4842072
+maharashtra,2023,1,Merchant payments,1134579287,502987953087.0
+maharashtra,2023,1,Peer-to-peer payments,572326605,1752752577223.0
+maharashtra,2023,1,Recharge & bill payments,139414546,104828264973.0
+maharashtra,2023,1,Financial Services,667987,763120514.0
+maharashtra,2023,1,Others,1280074,953990262.0
+maharashtra,2023,2,Merchant payments,1289778683,567713506184.0
+maharashtra,2023,2,Peer-to-peer payments,620475611,1923752701888.0
+maharashtra,2023,2,Recharge & bill payments,151613474,112846643294.0
+maharashtra,2023,2,Financial Services,697164,821061690.0
+maharashtra,2023,2,Others,1152916,870693412.0
+maharashtra,2023,3,Merchant payments,1442968360,623156210487.0
+maharashtra,2023,3,Peer-to-peer payments,689021709,2006148405860.0
+maharashtra,2023,3,Recharge & bill payments,156785138,120947991569.0
+maharashtra,2023,3,Financial Services,824436,1088491523.0
+maharashtra,2023,3,Others,1078944,831084802.0
+maharashtra,2023,4,Merchant payments,1646497204,707862700173.0
+maharashtra,2023,4,Peer-to-peer payments,767517612,2254104157529.0
+maharashtra,2023,4,Recharge & bill payments,155965094,133821812867.0
+maharashtra,2023,4,Financial Services,1025481,1362709031.0
+maharashtra,2023,4,Others,1157334,863555358.0
+manipur,2021,1,Peer-to-peer payments,1117829,6402367883.667423
+manipur,2021,1,Recharge & bill payments,796590,223955812.58644393
+manipur,2021,1,Merchant payments,377280,433297594.1352152
+manipur,2021,1,Financial Services,3398,4385333.1754908115
+manipur,2021,1,Others,8438,6280890.914669826
+manipur,2021,2,Peer-to-peer payments,1372821,7041837917.785187
+manipur,2021,2,Recharge & bill payments,1187952,305103750.5728581
+manipur,2021,2,Merchant payments,510734,531484849.4914169
+manipur,2021,2,Financial Services,4165,4256098.232237183
+manipur,2021,2,Others,10603,7145346.314942012
+manipur,2021,3,Peer-to-peer payments,1819423,9134806594.52819
+manipur,2021,3,Recharge & bill payments,1368584,367664440.53237265
+manipur,2021,3,Merchant payments,735707,889317377.086526
+manipur,2021,3,Financial Services,3460,5625517.975461649
+manipur,2021,3,Others,14222,9447098.78230339
+manipur,2021,4,Peer-to-peer payments,2199970,10998828287.529043
+manipur,2021,4,Recharge & bill payments,1451488,412791673.8037664
+manipur,2021,4,Merchant payments,1013985,1229517397.4561875
+manipur,2021,4,Financial Services,4671,5941100.580610943
+manipur,2021,4,Others,17325,11393578.842227157
+manipur,2022,1,Peer-to-peer payments,2517626,12169368063.4095
+manipur,2022,1,Recharge & bill payments,1528476,469035958.34841275
+manipur,2022,1,Merchant payments,1247205,1489604137.2090888
+manipur,2022,1,Financial Services,4878,6057615.527015026
+manipur,2022,1,Others,15494,10435303.87979853
+manipur,2022,2,Peer-to-peer payments,2843426,12704512238.809605
+manipur,2022,2,Merchant payments,1709547,1757831052.0706987
+manipur,2022,2,Recharge & bill payments,1533778,448637966.718931
+manipur,2022,2,Financial Services,4069,4753628.558008127
+manipur,2022,2,Others,14812,7175748.992065379
+manipur,2022,3,Peer-to-peer payments,3127266,12927705072.13747
+manipur,2022,3,Merchant payments,1829741,2010460357.0881667
+manipur,2022,3,Recharge & bill payments,1379911,432182393.84038734
+manipur,2022,3,Financial Services,4524,4671353.405444902
+manipur,2022,3,Others,11300,6411090.828254536
+manipur,2022,4,Peer-to-peer payments,3259645,13133729481.472115
+manipur,2022,4,Merchant payments,1828984,2074698993.4220653
+manipur,2022,4,Recharge & bill payments,1325391,406031254.0798015
+manipur,2022,4,Financial Services,4691,5754919.963910458
+manipur,2022,4,Others,9959,5742049.403589871
+manipur,2023,1,Peer-to-peer payments,1703742,7281781083.0
+manipur,2023,1,Merchant payments,933135,1083073192.0
+manipur,2023,1,Recharge & bill payments,613398,214427498.0
+manipur,2023,1,Financial Services,3529,3178295.0
+manipur,2023,1,Others,4579,3104024.0
+manipur,2023,2,Peer-to-peer payments,812842,3763543566.0
+manipur,2023,2,Merchant payments,499534,569980400.0
+manipur,2023,2,Recharge & bill payments,290239,127777535.0
+manipur,2023,2,Financial Services,1849,1430976.0
+manipur,2023,2,Others,1807,1144176.0
+manipur,2023,3,Peer-to-peer payments,450548,3054677807.0
+manipur,2023,3,Merchant payments,222132,418107590.0
+manipur,2023,3,Recharge & bill payments,189582,131240898.0
+manipur,2023,3,Financial Services,2290,3551704.0
+manipur,2023,3,Others,926,708602.0
+manipur,2023,4,Peer-to-peer payments,1098359,5690075337.0
+manipur,2023,4,Merchant payments,638811,893960176.0
+manipur,2023,4,Recharge & bill payments,368865,209606825.0
+manipur,2023,4,Financial Services,4438,5093670.0
+manipur,2023,4,Others,2727,1589290.0
+meghalaya,2021,1,Peer-to-peer payments,326993,1794745857.3188953
+meghalaya,2021,1,Recharge & bill payments,306634,106098525.65614726
+meghalaya,2021,1,Merchant payments,108805,147747773.01896822
+meghalaya,2021,1,Financial Services,1777,3981898.0457751974
+meghalaya,2021,1,Others,3437,2941223.950049905
+meghalaya,2021,2,Recharge & bill payments,389959,129031455.7077258
+meghalaya,2021,2,Peer-to-peer payments,366411,1885041503.7970467
+meghalaya,2021,2,Merchant payments,147406,173894963.00439677
+meghalaya,2021,2,Financial Services,1766,2306496.854595862
+meghalaya,2021,2,Others,4052,3342835.5268340455
+meghalaya,2021,3,Peer-to-peer payments,473274,2348008593.21644
+meghalaya,2021,3,Recharge & bill payments,418429,144363692.75220004
+meghalaya,2021,3,Merchant payments,199427,270311210.8907223
+meghalaya,2021,3,Financial Services,1556,2379067.1150075165
+meghalaya,2021,3,Others,5045,3937887.553600684
+meghalaya,2021,4,Peer-to-peer payments,669693,3233210261.728197
+meghalaya,2021,4,Recharge & bill payments,447310,165277548.45940137
+meghalaya,2021,4,Merchant payments,314445,442464385.0377933
+meghalaya,2021,4,Financial Services,1989,2464327.9242311358
+meghalaya,2021,4,Others,6756,5348877.036531466
+meghalaya,2022,1,Peer-to-peer payments,801009,3899172008.7001157
+meghalaya,2022,1,Recharge & bill payments,459530,192026788.60457045
+meghalaya,2022,1,Merchant payments,405859,563004043.9315958
+meghalaya,2022,1,Financial Services,2134,3019251.8598936894
+meghalaya,2022,1,Others,6218,5116238.235718384
+meghalaya,2022,2,Peer-to-peer payments,977816,4359000096.157877
+meghalaya,2022,2,Merchant payments,591364,714995836.5962032
+meghalaya,2022,2,Recharge & bill payments,467745,200896879.69103926
+meghalaya,2022,2,Financial Services,1880,2406087.095158501
+meghalaya,2022,2,Others,5844,4192522.344518611
+meghalaya,2022,3,Peer-to-peer payments,2050942,7796315453.507147
+meghalaya,2022,3,Merchant payments,1486098,1468318733.1353962
+meghalaya,2022,3,Recharge & bill payments,810017,330230375.9276109
+meghalaya,2022,3,Financial Services,3504,3106775.3857113793
+meghalaya,2022,3,Others,8604,5329459.165683068
+meghalaya,2022,4,Peer-to-peer payments,1901671,7328913724.3339405
+meghalaya,2022,4,Merchant payments,1334431,1381013596.832624
+meghalaya,2022,4,Recharge & bill payments,685678,278377945.43169147
+meghalaya,2022,4,Financial Services,3544,3564357.119764914
+meghalaya,2022,4,Others,7124,4671532.630633753
+meghalaya,2023,1,Peer-to-peer payments,2111009,8309060918.0
+meghalaya,2023,1,Merchant payments,1232691,1407372935.0
+meghalaya,2023,1,Recharge & bill payments,810151,358800191.0
+meghalaya,2023,1,Financial Services,3991,4692287.0
+meghalaya,2023,1,Others,6863,4914284.0
+meghalaya,2023,2,Peer-to-peer payments,2509275,8997569260.0
+meghalaya,2023,2,Merchant payments,1701913,1698962028.0
+meghalaya,2023,2,Recharge & bill payments,855108,378639410.0
+meghalaya,2023,2,Financial Services,4075,4633858.0
+meghalaya,2023,2,Others,6841,4701930.0
+meghalaya,2023,3,Peer-to-peer payments,2926582,9081363888.0
+meghalaya,2023,3,Merchant payments,2199365,1940467487.0
+meghalaya,2023,3,Recharge & bill payments,893594,376288929.0
+meghalaya,2023,3,Financial Services,4709,4394372.0
+meghalaya,2023,3,Others,5592,4118404.0
+meghalaya,2023,4,Peer-to-peer payments,3588204,11051189244.0
+meghalaya,2023,4,Merchant payments,2747430,2399606416.0
+meghalaya,2023,4,Recharge & bill payments,919773,412031812.0
+meghalaya,2023,4,Financial Services,6221,6157396.0
+meghalaya,2023,4,Others,6756,4073824.0
+mizoram,2021,1,Peer-to-peer payments,156386,982955112.1892779
+mizoram,2021,1,Recharge & bill payments,128055,45558278.22323953
+mizoram,2021,1,Merchant payments,43511,70289687.94622748
+mizoram,2021,1,Financial Services,648,1330632.9787811027
+mizoram,2021,1,Others,975,971875.6084117102
+mizoram,2021,2,Peer-to-peer payments,173064,995581952.903405
+mizoram,2021,2,Recharge & bill payments,161763,56059844.239659324
+mizoram,2021,2,Merchant payments,57877,69528721.40156102
+mizoram,2021,2,Financial Services,611,710657.5065644829
+mizoram,2021,2,Others,1025,993297.250902934
+mizoram,2021,3,Peer-to-peer payments,224873,1290523196.259221
+mizoram,2021,3,Recharge & bill payments,177281,67493206.62394348
+mizoram,2021,3,Merchant payments,74553,113697005.89820999
+mizoram,2021,3,Financial Services,522,806905.9729422838
+mizoram,2021,3,Others,1300,1228335.4576346257
+mizoram,2021,4,Peer-to-peer payments,272209,1545255603.4119103
+mizoram,2021,4,Recharge & bill payments,179405,67548806.84754582
+mizoram,2021,4,Merchant payments,99265,154183940.72826496
+mizoram,2021,4,Financial Services,695,2202285.707728365
+mizoram,2021,4,Others,1755,1475104.827591939
+mizoram,2022,1,Peer-to-peer payments,302740,1691281089.989316
+mizoram,2022,1,Recharge & bill payments,190137,76541062.33691595
+mizoram,2022,1,Merchant payments,109669,174157725.41469872
+mizoram,2022,1,Financial Services,731,1657575.282816791
+mizoram,2022,1,Others,1640,1521510.587498479
+mizoram,2022,2,Peer-to-peer payments,332102,1739114390.3016624
+mizoram,2022,2,Recharge & bill payments,172281,70775723.34635986
+mizoram,2022,2,Merchant payments,137279,191484723.76839563
+mizoram,2022,2,Financial Services,656,801633.2114598342
+mizoram,2022,2,Others,1659,1010096.4810587188
+mizoram,2022,3,Peer-to-peer payments,349715,1665955694.9848173
+mizoram,2022,3,Recharge & bill payments,156874,68463689.80469275
+mizoram,2022,3,Merchant payments,150320,209934220.28326848
+mizoram,2022,3,Financial Services,802,880187.5512756812
+mizoram,2022,3,Others,1327,1031819.4438998674
+mizoram,2022,4,Peer-to-peer payments,378295,1750113148.3068104
+mizoram,2022,4,Merchant payments,164389,222455759.17733783
+mizoram,2022,4,Recharge & bill payments,148573,63477925.042983845
+mizoram,2022,4,Financial Services,932,949850.198945797
+mizoram,2022,4,Others,1585,914402.5369417528
+mizoram,2023,1,Peer-to-peer payments,593994,2560331179.0
+mizoram,2023,1,Recharge & bill payments,234313,98553348.0
+mizoram,2023,1,Merchant payments,221560,293428579.0
+mizoram,2023,1,Financial Services,1044,2065983.0
+mizoram,2023,1,Others,1684,1243650.0
+mizoram,2023,2,Peer-to-peer payments,673375,2715818146.0
+mizoram,2023,2,Merchant payments,291229,369968035.0
+mizoram,2023,2,Recharge & bill payments,241862,102587776.0
+mizoram,2023,2,Financial Services,1144,2164348.0
+mizoram,2023,2,Others,1320,1268271.0
+mizoram,2023,3,Peer-to-peer payments,725656,2616686121.0
+mizoram,2023,3,Merchant payments,343955,383487446.0
+mizoram,2023,3,Recharge & bill payments,237526,100886209.0
+mizoram,2023,3,Financial Services,1523,3916230.0
+mizoram,2023,3,Others,1753,1154229.0
+mizoram,2023,4,Peer-to-peer payments,809449,2937356157.0
+mizoram,2023,4,Merchant payments,454911,486085794.0
+mizoram,2023,4,Recharge & bill payments,233101,110530170.0
+mizoram,2023,4,Financial Services,1693,6001935.0
+mizoram,2023,4,Others,1574,866227.0
+nagaland,2021,1,Peer-to-peer payments,477346,2841021698.4844904
+nagaland,2021,1,Recharge & bill payments,376473,110095189.5931618
+nagaland,2021,1,Merchant payments,116846,151202427.14605337
+nagaland,2021,1,Financial Services,1511,1929643.694251965
+nagaland,2021,1,Others,3721,3201525.695241506
+nagaland,2021,2,Peer-to-peer payments,526966,2847731457.571479
+nagaland,2021,2,Recharge & bill payments,453979,126962524.74536937
+nagaland,2021,2,Merchant payments,144413,176831583.13676447
+nagaland,2021,2,Financial Services,1624,1785915.6371230448
+nagaland,2021,2,Others,3809,2982482.691132756
+nagaland,2021,3,Peer-to-peer payments,667633,3536780176.7792263
+nagaland,2021,3,Recharge & bill payments,474693,141172028.23897478
+nagaland,2021,3,Merchant payments,208387,304493279.8158357
+nagaland,2021,3,Financial Services,1437,1634878.888862805
+nagaland,2021,3,Others,4642,3336484.2825483214
+nagaland,2021,4,Peer-to-peer payments,819452,4335295237.9809065
+nagaland,2021,4,Recharge & bill payments,492411,154359432.07659015
+nagaland,2021,4,Merchant payments,311673,442578210.0882374
+nagaland,2021,4,Financial Services,1790,2263055.5218537706
+nagaland,2021,4,Others,6157,4587848.468888722
+nagaland,2022,1,Peer-to-peer payments,963378,4798355631.574022
+nagaland,2022,1,Recharge & bill payments,529038,175942440.62210858
+nagaland,2022,1,Merchant payments,425336,563650239.9471383
+nagaland,2022,1,Financial Services,2022,2503998.824974763
+nagaland,2022,1,Others,6178,4499397.927512417
+nagaland,2022,2,Peer-to-peer payments,1032542,4933041257.229492
+nagaland,2022,2,Merchant payments,513456,640665988.1540827
+nagaland,2022,2,Recharge & bill payments,479322,162238616.41478142
+nagaland,2022,2,Financial Services,1547,1519503.219426635
+nagaland,2022,2,Others,4462,2819984.0024981033
+nagaland,2022,3,Peer-to-peer payments,990896,4568905305.863961
+nagaland,2022,3,Merchant payments,467257,642368278.6360128
+nagaland,2022,3,Recharge & bill payments,430854,148324294.67210707
+nagaland,2022,3,Financial Services,1479,2345498.6025009975
+nagaland,2022,3,Others,3627,2457117.2762476145
+nagaland,2022,4,Peer-to-peer payments,1314122,5888068476.789
+nagaland,2022,4,Merchant payments,647805,906834415.4525998
+nagaland,2022,4,Recharge & bill payments,508230,170028535.796474
+nagaland,2022,4,Financial Services,2104,1909585.0695077945
+nagaland,2022,4,Others,3944,3125371.2064643847
+nagaland,2023,1,Peer-to-peer payments,1499574,6682278926.0
+nagaland,2023,1,Recharge & bill payments,594157,217058376.0
+nagaland,2023,1,Merchant payments,586135,908765354.0
+nagaland,2023,1,Financial Services,2116,3157626.0
+nagaland,2023,1,Others,3588,3137572.0
+nagaland,2023,2,Peer-to-peer payments,1617109,6785635810.0
+nagaland,2023,2,Merchant payments,727260,1034147550.0
+nagaland,2023,2,Recharge & bill payments,572760,197242689.0
+nagaland,2023,2,Financial Services,2070,1698008.0
+nagaland,2023,2,Others,2802,2675253.0
+nagaland,2023,3,Peer-to-peer payments,1885439,7170452325.0
+nagaland,2023,3,Merchant payments,941540,1233761672.0
+nagaland,2023,3,Recharge & bill payments,589934,204490934.0
+nagaland,2023,3,Financial Services,3255,5608850.0
+nagaland,2023,3,Others,2163,1985892.0
+nagaland,2023,4,Peer-to-peer payments,2108656,7951828073.0
+nagaland,2023,4,Merchant payments,1114580,1506769625.0
+nagaland,2023,4,Recharge & bill payments,569355,210015855.0
+nagaland,2023,4,Financial Services,2722,4005037.0
+nagaland,2023,4,Others,1866,1956832.0
+odisha,2021,1,Peer-to-peer payments,54417515,181450436291.91052
+odisha,2021,1,Merchant payments,38180718,25201936762.205833
+odisha,2021,1,Recharge & bill payments,18633830,6552605937.545543
+odisha,2021,1,Financial Services,87263,95064023.94844367
+odisha,2021,1,Others,141032,97693172.7305285
+odisha,2021,2,Peer-to-peer payments,66929109,208405882369.0544
+odisha,2021,2,Merchant payments,39402607,29208847674.89984
+odisha,2021,2,Recharge & bill payments,25183699,8024323050.14009
+odisha,2021,2,Financial Services,102474,102761986.97553992
+odisha,2021,2,Others,206448,122302396.20450994
+odisha,2021,3,Peer-to-peer payments,85728576,251150860524.22568
+odisha,2021,3,Merchant payments,64268830,43316348173.18004
+odisha,2021,3,Recharge & bill payments,26943670,9025674783.404198
+odisha,2021,3,Financial Services,97213,112383446.87807697
+odisha,2021,3,Others,324385,175452005.353413
+odisha,2021,4,Peer-to-peer payments,107560893,310704112799.8908
+odisha,2021,4,Merchant payments,99512650,63383870318.30179
+odisha,2021,4,Recharge & bill payments,26302130,10728834440.697895
+odisha,2021,4,Financial Services,133004,147526652.49426866
+odisha,2021,4,Others,416689,286705478.5345538
+odisha,2022,1,Peer-to-peer payments,118999900,364447461107.48627
+odisha,2022,1,Merchant payments,118108271,74302051597.7621
+odisha,2022,1,Recharge & bill payments,26083549,12133153536.781809
+odisha,2022,1,Financial Services,102802,118946014.37332995
+odisha,2022,1,Others,338977,225699523.4203592
+odisha,2022,2,Merchant payments,148544714,90369380298.62819
+odisha,2022,2,Peer-to-peer payments,134717859,405793657448.2689
+odisha,2022,2,Recharge & bill payments,29843263,13602640170.909237
+odisha,2022,2,Financial Services,88649,95050158.46585183
+odisha,2022,2,Others,257113,174284263.75509703
+odisha,2022,3,Merchant payments,188143417,102889591517.77438
+odisha,2022,3,Peer-to-peer payments,161912635,444439407187.0311
+odisha,2022,3,Recharge & bill payments,36270166,16916650473.363901
+odisha,2022,3,Financial Services,113961,114005498.98461477
+odisha,2022,3,Others,247147,185902663.39600113
+odisha,2022,4,Merchant payments,222167575,121470843740.33278
+odisha,2022,4,Peer-to-peer payments,186438654,512124643103.06616
+odisha,2022,4,Recharge & bill payments,36735289,18266150373.351486
+odisha,2022,4,Financial Services,132033,149681749.30767313
+odisha,2022,4,Others,241192,205745557.94232672
+odisha,2023,1,Merchant payments,243616581,133278562001.0
+odisha,2023,1,Peer-to-peer payments,198553747,595933691341.0
+odisha,2023,1,Recharge & bill payments,40372356,24411906758.0
+odisha,2023,1,Financial Services,127296,134484035.0
+odisha,2023,1,Others,226108,210333528.0
+odisha,2023,2,Merchant payments,282885225,147421475866.0
+odisha,2023,2,Peer-to-peer payments,217285461,625263844732.0
+odisha,2023,2,Recharge & bill payments,44095331,26269101096.0
+odisha,2023,2,Financial Services,145204,188423267.0
+odisha,2023,2,Others,186608,189209143.0
+odisha,2023,3,Merchant payments,337194096,160182679944.0
+odisha,2023,3,Peer-to-peer payments,239288791,651619933183.0
+odisha,2023,3,Recharge & bill payments,45575270,28052828938.0
+odisha,2023,3,Financial Services,174288,272020312.0
+odisha,2023,3,Others,165158,170875747.0
+odisha,2023,4,Merchant payments,401974050,192706056039.0
+odisha,2023,4,Peer-to-peer payments,282995042,753723955251.0
+odisha,2023,4,Recharge & bill payments,46794630,31909484745.0
+odisha,2023,4,Financial Services,219343,295192794.0
+odisha,2023,4,Others,154411,157176808.0
+puducherry,2021,1,Peer-to-peer payments,1406958,4798646712.501943
+puducherry,2021,1,Merchant payments,1385444,857787315.6292762
+puducherry,2021,1,Recharge & bill payments,504499,231829246.92353857
+puducherry,2021,1,Financial Services,5073,5953397.434996936
+puducherry,2021,1,Others,7458,5092899.253895952
+puducherry,2021,2,Peer-to-peer payments,1581221,5266478797.142263
+puducherry,2021,2,Merchant payments,1437110,932602617.3169692
+puducherry,2021,2,Recharge & bill payments,719252,289799593.1571478
+puducherry,2021,2,Financial Services,4851,4980243.907969391
+puducherry,2021,2,Others,8953,4973445.019544071
+puducherry,2021,3,Merchant payments,2273996,1443176801.0606492
+puducherry,2021,3,Peer-to-peer payments,2089199,6918396493.778431
+puducherry,2021,3,Recharge & bill payments,741388,356068931.7441095
+puducherry,2021,3,Financial Services,4733,5523949.081350253
+puducherry,2021,3,Others,12410,6808255.349929206
+puducherry,2021,4,Merchant payments,3052713,1864951565.928207
+puducherry,2021,4,Peer-to-peer payments,2530821,8113722339.447034
+puducherry,2021,4,Recharge & bill payments,762641,428453211.3120815
+puducherry,2021,4,Financial Services,5995,7655925.10855468
+puducherry,2021,4,Others,16640,8868759.43463589
+puducherry,2022,1,Merchant payments,3723135,2199614586.4039083
+puducherry,2022,1,Peer-to-peer payments,2901199,9407577501.769796
+puducherry,2022,1,Recharge & bill payments,715338,460522863.7855054
+puducherry,2022,1,Financial Services,6203,8184455.912082582
+puducherry,2022,1,Others,13301,7575497.515363299
+puducherry,2022,2,Merchant payments,4613049,2693234774.5574756
+puducherry,2022,2,Peer-to-peer payments,3242208,10537267921.61604
+puducherry,2022,2,Recharge & bill payments,773154,535604974.57621765
+puducherry,2022,2,Financial Services,4914,6556452.522381971
+puducherry,2022,2,Others,10362,6081132.496780836
+puducherry,2022,3,Merchant payments,3992974,2322908508.7835197
+puducherry,2022,3,Peer-to-peer payments,2474932,8058325855.623236
+puducherry,2022,3,Recharge & bill payments,564285,463054690.5826355
+puducherry,2022,3,Financial Services,4621,5514275.578545391
+puducherry,2022,3,Others,5915,4514380.573011656
+puducherry,2022,4,Merchant payments,4464977,2534351530.8368397
+puducherry,2022,4,Peer-to-peer payments,2547018,8141612224.034059
+puducherry,2022,4,Recharge & bill payments,531963,453692483.7752487
+puducherry,2022,4,Financial Services,6073,7875178.045195433
+puducherry,2022,4,Others,6096,4673460.483150147
+puducherry,2023,1,Merchant payments,6210806,3316530650.0
+puducherry,2023,1,Peer-to-peer payments,3253673,10233359658.0
+puducherry,2023,1,Recharge & bill payments,665403,659444437.0
+puducherry,2023,1,Financial Services,6899,7467930.0
+puducherry,2023,1,Others,7514,5585831.0
+puducherry,2023,2,Merchant payments,6947299,3741027689.0
+puducherry,2023,2,Peer-to-peer payments,3454536,10911578720.0
+puducherry,2023,2,Recharge & bill payments,716315,721293051.0
+puducherry,2023,2,Financial Services,5894,7597615.0
+puducherry,2023,2,Others,6282,5236182.0
+puducherry,2023,3,Merchant payments,7931739,4179109351.0
+puducherry,2023,3,Peer-to-peer payments,3700961,11504274941.0
+puducherry,2023,3,Recharge & bill payments,733610,749217503.0
+puducherry,2023,3,Financial Services,7290,7192768.0
+puducherry,2023,3,Others,6041,4697276.0
+puducherry,2023,4,Merchant payments,8375075,4370563512.0
+puducherry,2023,4,Peer-to-peer payments,3860142,11819316619.0
+puducherry,2023,4,Recharge & bill payments,737154,820859102.0
+puducherry,2023,4,Financial Services,7952,9479756.0
+puducherry,2023,4,Others,5840,4291561.0
+punjab,2021,1,Peer-to-peer payments,10951083,46908632143.31532
+punjab,2021,1,Merchant payments,9333364,7651004598.907397
+punjab,2021,1,Recharge & bill payments,6332928,3980874403.2760215
+punjab,2021,1,Financial Services,43094,52009482.41407214
+punjab,2021,1,Others,110366,98366463.19387978
+punjab,2021,2,Peer-to-peer payments,13180933,55282486111.30394
+punjab,2021,2,Merchant payments,11225598,9710508482.436422
+punjab,2021,2,Recharge & bill payments,7591039,4370756868.518326
+punjab,2021,2,Financial Services,46218,53309051.06501615
+punjab,2021,2,Others,127460,113998049.29147904
+punjab,2021,3,Peer-to-peer payments,17024782,66149902036.358826
+punjab,2021,3,Merchant payments,16837685,14103740968.543571
+punjab,2021,3,Recharge & bill payments,8465739,5540272095.274853
+punjab,2021,3,Financial Services,43789,63576666.590925634
+punjab,2021,3,Others,161494,135069073.84402025
+punjab,2021,4,Merchant payments,22669743,20753662875.546524
+punjab,2021,4,Peer-to-peer payments,20663881,83611403637.31992
+punjab,2021,4,Recharge & bill payments,8765579,6107473171.935022
+punjab,2021,4,Financial Services,58581,86356456.60324252
+punjab,2021,4,Others,201576,151230100.5948589
+punjab,2022,1,Merchant payments,25979197,23217511696.823074
+punjab,2022,1,Peer-to-peer payments,22354946,88645204328.52362
+punjab,2022,1,Recharge & bill payments,9188439,6317909908.645241
+punjab,2022,1,Financial Services,57561,83933665.00820544
+punjab,2022,1,Others,178159,125418506.96271203
+punjab,2022,2,Merchant payments,35941880,28585688543.687046
+punjab,2022,2,Peer-to-peer payments,25952349,100938068541.26062
+punjab,2022,2,Recharge & bill payments,10161030,7652499714.013335
+punjab,2022,2,Financial Services,50483,57234782.46271807
+punjab,2022,2,Others,167081,111934787.80332904
+punjab,2022,3,Merchant payments,43089589,32370885165.312702
+punjab,2022,3,Peer-to-peer payments,29862592,107653378074.87231
+punjab,2022,3,Recharge & bill payments,11017816,9119649328.792372
+punjab,2022,3,Financial Services,57979,68249938.53956848
+punjab,2022,3,Others,149921,107280498.83777893
+punjab,2022,4,Merchant payments,48358802,38162493193.40967
+punjab,2022,4,Peer-to-peer payments,32377106,120512767954.99376
+punjab,2022,4,Recharge & bill payments,10895208,9248445985.684328
+punjab,2022,4,Financial Services,62809,72160390.22791913
+punjab,2022,4,Others,141255,111559653.62333827
+punjab,2023,1,Merchant payments,50683710,37462999833.0
+punjab,2023,1,Peer-to-peer payments,33701280,126365345151.0
+punjab,2023,1,Recharge & bill payments,12305439,11478972029.0
+punjab,2023,1,Financial Services,70521,79209681.0
+punjab,2023,1,Others,149871,122150166.0
+punjab,2023,2,Merchant payments,64565961,41553118124.0
+punjab,2023,2,Peer-to-peer payments,39301140,140243650141.0
+punjab,2023,2,Recharge & bill payments,13207924,12183745216.0
+punjab,2023,2,Financial Services,76961,95312222.0
+punjab,2023,2,Others,138303,105749751.0
+punjab,2023,3,Merchant payments,74881815,46565196649.0
+punjab,2023,3,Peer-to-peer payments,43379354,145286422875.0
+punjab,2023,3,Recharge & bill payments,13684178,13149660821.0
+punjab,2023,3,Financial Services,92473,129392229.0
+punjab,2023,3,Others,123361,94910163.0
+punjab,2023,4,Merchant payments,81248644,54620603519.0
+punjab,2023,4,Peer-to-peer payments,47365190,161825075689.0
+punjab,2023,4,Recharge & bill payments,13392115,14445536415.0
+punjab,2023,4,Financial Services,102014,156978606.0
+punjab,2023,4,Others,121032,91267936.0
+rajasthan,2021,1,Peer-to-peer payments,116733195,408190388154.2274
+rajasthan,2021,1,Merchant payments,96394132,61936457709.223076
+rajasthan,2021,1,Recharge & bill payments,38919519,20855464604.344055
+rajasthan,2021,1,Financial Services,192936,162581466.93308985
+rajasthan,2021,1,Others,491137,347689722.9177618
+rajasthan,2021,2,Peer-to-peer payments,139277445,467784146764.7472
+rajasthan,2021,2,Merchant payments,97860493,69922875807.46701
+rajasthan,2021,2,Recharge & bill payments,49501703,23387103755.819714
+rajasthan,2021,2,Financial Services,216441,186606893.61035594
+rajasthan,2021,2,Others,620957,422031947.60023904
+rajasthan,2021,3,Peer-to-peer payments,181742972,575912799217.8965
+rajasthan,2021,3,Merchant payments,167819345,105548321875.05884
+rajasthan,2021,3,Recharge & bill payments,49709657,28335516739.41771
+rajasthan,2021,3,Financial Services,197211,190362135.86135098
+rajasthan,2021,3,Others,815568,524328574.25040925
+rajasthan,2021,4,Merchant payments,221774624,151967969235.0213
+rajasthan,2021,4,Peer-to-peer payments,212937264,718215327365.9165
+rajasthan,2021,4,Recharge & bill payments,51610607,32831163302.92643
+rajasthan,2021,4,Financial Services,265091,263180819.6932125
+rajasthan,2021,4,Others,1034011,656777820.7586894
+rajasthan,2022,1,Merchant payments,267467038,171182113048.26318
+rajasthan,2022,1,Peer-to-peer payments,241739380,814525435614.1678
+rajasthan,2022,1,Recharge & bill payments,54555117,35542881861.07577
+rajasthan,2022,1,Financial Services,244029,243340851.71204624
+rajasthan,2022,1,Others,956656,556409604.9103613
+rajasthan,2022,2,Merchant payments,336900860,208238945148.44
+rajasthan,2022,2,Peer-to-peer payments,263380560,905641041298.7231
+rajasthan,2022,2,Recharge & bill payments,59879660,38325678033.564705
+rajasthan,2022,2,Financial Services,170705,175399371.37748802
+rajasthan,2022,2,Others,838365,452454748.2866859
+rajasthan,2022,3,Merchant payments,398104319,230609701751.02283
+rajasthan,2022,3,Peer-to-peer payments,299383118,961209376585.5621
+rajasthan,2022,3,Recharge & bill payments,69118763,46000391408.24405
+rajasthan,2022,3,Financial Services,215235,220271929.84233993
+rajasthan,2022,3,Others,719925,449514643.6055006
+rajasthan,2022,4,Merchant payments,457778005,275194969877.524
+rajasthan,2022,4,Peer-to-peer payments,334316758,1130380720682.5203
+rajasthan,2022,4,Recharge & bill payments,72510470,50609988781.94313
+rajasthan,2022,4,Financial Services,244442,270658680.97924906
+rajasthan,2022,4,Others,725173,500361375.69058275
+rajasthan,2023,1,Merchant payments,484552414,276693132279.0
+rajasthan,2023,1,Peer-to-peer payments,353301155,1216864232698.0
+rajasthan,2023,1,Recharge & bill payments,82232131,60583110261.0
+rajasthan,2023,1,Financial Services,259195,274450998.0
+rajasthan,2023,1,Others,751791,498449614.0
+rajasthan,2023,2,Merchant payments,592487449,310487787699.0
+rajasthan,2023,2,Peer-to-peer payments,389865502,1321457235324.0
+rajasthan,2023,2,Recharge & bill payments,90082184,65720609268.0
+rajasthan,2023,2,Financial Services,289948,328805088.0
+rajasthan,2023,2,Others,734255,461148921.0
+rajasthan,2023,3,Merchant payments,704324393,341799936129.0
+rajasthan,2023,3,Peer-to-peer payments,438800339,1385976868598.0
+rajasthan,2023,3,Recharge & bill payments,93085762,71540658202.0
+rajasthan,2023,3,Financial Services,359675,484002475.0
+rajasthan,2023,3,Others,661998,423978212.0
+rajasthan,2023,4,Merchant payments,766981185,396873110176.0
+rajasthan,2023,4,Peer-to-peer payments,484250991,1587157118494.0
+rajasthan,2023,4,Recharge & bill payments,97092812,81348244193.0
+rajasthan,2023,4,Financial Services,443168,570385125.0
+rajasthan,2023,4,Others,703998,430749813.0
+sikkim,2021,1,Peer-to-peer payments,403703,1965492629.578867
+sikkim,2021,1,Recharge & bill payments,279679,93174110.112334
+sikkim,2021,1,Merchant payments,112925,154183320.1372872
+sikkim,2021,1,Financial Services,1844,3027799.2784099854
+sikkim,2021,1,Others,2038,1789867.7338266163
+sikkim,2021,2,Peer-to-peer payments,473141,2125758496.616091
+sikkim,2021,2,Recharge & bill payments,345495,103846501.52404109
+sikkim,2021,2,Merchant payments,153671,190473176.21848944
+sikkim,2021,2,Financial Services,1865,2851874.287465013
+sikkim,2021,2,Others,2542,1969531.0292125773
+sikkim,2021,3,Peer-to-peer payments,595826,2582075089.383399
+sikkim,2021,3,Recharge & bill payments,346173,111613776.75942023
+sikkim,2021,3,Merchant payments,213808,290732930.46291006
+sikkim,2021,3,Financial Services,1689,2624558.3857180667
+sikkim,2021,3,Others,3098,2290508.8169457563
+sikkim,2021,4,Peer-to-peer payments,831597,3548508409.656125
+sikkim,2021,4,Recharge & bill payments,376078,136473754.40071422
+sikkim,2021,4,Merchant payments,369343,504586163.5569785
+sikkim,2021,4,Financial Services,2269,3162023.7210206646
+sikkim,2021,4,Others,5058,4052910.300969372
+sikkim,2022,1,Peer-to-peer payments,916940,3650961081.00263
+sikkim,2022,1,Merchant payments,449273,570784579.6670712
+sikkim,2022,1,Recharge & bill payments,371579,139135962.10369253
+sikkim,2022,1,Financial Services,2124,3062332.163804472
+sikkim,2022,1,Others,4386,3487320.9262269526
+sikkim,2022,2,Peer-to-peer payments,1198014,4596501308.195931
+sikkim,2022,2,Merchant payments,706658,847497607.0893551
+sikkim,2022,2,Recharge & bill payments,411189,162174479.6973383
+sikkim,2022,2,Financial Services,1758,1861284.7969863976
+sikkim,2022,2,Others,4462,3070990.527526753
+sikkim,2022,3,Peer-to-peer payments,1222037,4173703593.656705
+sikkim,2022,3,Merchant payments,772650,830361400.9603965
+sikkim,2022,3,Recharge & bill payments,397207,153567926.32171312
+sikkim,2022,3,Financial Services,1538,2851319.5479129553
+sikkim,2022,3,Others,3326,2396303.4047308513
+sikkim,2022,4,Peer-to-peer payments,1548662,5175155338.821596
+sikkim,2022,4,Merchant payments,1033541,1096220774.255463
+sikkim,2022,4,Recharge & bill payments,470639,181281682.32208142
+sikkim,2022,4,Financial Services,2049,2701971.788609252
+sikkim,2022,4,Others,3448,3025622.2320622765
+sikkim,2023,1,Peer-to-peer payments,1779090,5451626602.0
+sikkim,2023,1,Merchant payments,1067585,1091745064.0
+sikkim,2023,1,Recharge & bill payments,543957,213517668.0
+sikkim,2023,1,Financial Services,2603,2801184.0
+sikkim,2023,1,Others,2893,2877504.0
+sikkim,2023,2,Peer-to-peer payments,2196285,6799375282.0
+sikkim,2023,2,Merchant payments,1616549,1523202088.0
+sikkim,2023,2,Recharge & bill payments,594826,251468530.0
+sikkim,2023,2,Financial Services,2790,3457083.0
+sikkim,2023,2,Others,2517,2847453.0
+sikkim,2023,3,Peer-to-peer payments,2187102,6245427022.0
+sikkim,2023,3,Merchant payments,2011690,1619166618.0
+sikkim,2023,3,Recharge & bill payments,600784,233423001.0
+sikkim,2023,3,Financial Services,3289,7262131.0
+sikkim,2023,3,Others,2072,1958649.0
+sikkim,2023,4,Peer-to-peer payments,2165502,6467541154.0
+sikkim,2023,4,Merchant payments,2124031,1877772225.0
+sikkim,2023,4,Recharge & bill payments,562618,235242389.0
+sikkim,2023,4,Financial Services,3357,7657246.0
+sikkim,2023,4,Others,1816,2395457.0
+tamil-nadu,2021,1,Peer-to-peer payments,57446279,206405230307.9611
+tamil-nadu,2021,1,Merchant payments,53811885,30722779534.582508
+tamil-nadu,2021,1,Recharge & bill payments,24826273,11115915388.739548
+tamil-nadu,2021,1,Financial Services,170620,215319360.4840321
+tamil-nadu,2021,1,Others,301617,208899281.88347316
+tamil-nadu,2021,2,Peer-to-peer payments,60812902,216379027686.30246
+tamil-nadu,2021,2,Merchant payments,52048347,33504798112.88382
+tamil-nadu,2021,2,Recharge & bill payments,32753032,13155346942.255478
+tamil-nadu,2021,2,Financial Services,192614,225113402.6634022
+tamil-nadu,2021,2,Others,351547,223054882.44675264
+tamil-nadu,2021,3,Merchant payments,85074941,52932187058.575195
+tamil-nadu,2021,3,Peer-to-peer payments,83833356,296121079294.8346
+tamil-nadu,2021,3,Recharge & bill payments,34751691,15613287081.611631
+tamil-nadu,2021,3,Financial Services,182097,246146707.2790811
+tamil-nadu,2021,3,Others,515319,294622911.6328684
+tamil-nadu,2021,4,Merchant payments,117578360,70539086832.13815
+tamil-nadu,2021,4,Peer-to-peer payments,104493071,353529424598.23047
+tamil-nadu,2021,4,Recharge & bill payments,36163870,18979178477.53405
+tamil-nadu,2021,4,Financial Services,228761,275850497.094934
+tamil-nadu,2021,4,Others,691914,400412189.80491126
+tamil-nadu,2022,1,Merchant payments,139788772,81798208975.87326
+tamil-nadu,2022,1,Peer-to-peer payments,119383791,409631710258.4541
+tamil-nadu,2022,1,Recharge & bill payments,34579431,20705079141.096962
+tamil-nadu,2022,1,Financial Services,241201,298216135.377552
+tamil-nadu,2022,1,Others,579955,355987089.8306444
+tamil-nadu,2022,2,Merchant payments,179245529,100813133534.0309
+tamil-nadu,2022,2,Peer-to-peer payments,136341691,464333108374.5711
+tamil-nadu,2022,2,Recharge & bill payments,38257271,24477663683.793488
+tamil-nadu,2022,2,Financial Services,202498,233054908.96978933
+tamil-nadu,2022,2,Others,459948,277767177.03123105
+tamil-nadu,2022,3,Merchant payments,202149276,109801011246.16069
+tamil-nadu,2022,3,Peer-to-peer payments,148805657,493880482824.984
+tamil-nadu,2022,3,Recharge & bill payments,41919063,27694221703.16715
+tamil-nadu,2022,3,Financial Services,217741,238069828.1652185
+tamil-nadu,2022,3,Others,404438,265434770.79138052
+tamil-nadu,2022,4,Merchant payments,229308285,118847998736.56468
+tamil-nadu,2022,4,Peer-to-peer payments,162920305,526511418812.7734
+tamil-nadu,2022,4,Recharge & bill payments,43391904,29719449171.386997
+tamil-nadu,2022,4,Financial Services,295740,334812023.56560165
+tamil-nadu,2022,4,Others,400402,275988847.1474179
+tamil-nadu,2023,1,Merchant payments,248540772,124250251559.0
+tamil-nadu,2023,1,Peer-to-peer payments,169269032,554678365256.0
+tamil-nadu,2023,1,Recharge & bill payments,42745926,36069237413.0
+tamil-nadu,2023,1,Financial Services,281287,303893116.0
+tamil-nadu,2023,1,Others,375370,281926174.0
+tamil-nadu,2023,2,Merchant payments,270279446,132952561597.0
+tamil-nadu,2023,2,Peer-to-peer payments,181169979,603065358975.0
+tamil-nadu,2023,2,Recharge & bill payments,46387359,39784453434.0
+tamil-nadu,2023,2,Financial Services,273888,317118374.0
+tamil-nadu,2023,2,Others,318966,243058635.0
+tamil-nadu,2023,3,Merchant payments,309648502,147481033140.0
+tamil-nadu,2023,3,Peer-to-peer payments,198678217,641624213537.0
+tamil-nadu,2023,3,Recharge & bill payments,47138716,43398412878.0
+tamil-nadu,2023,3,Financial Services,320645,373041817.0
+tamil-nadu,2023,3,Others,298928,228563326.0
+tamil-nadu,2023,4,Merchant payments,336838248,162776066943.0
+tamil-nadu,2023,4,Peer-to-peer payments,208592985,662522423764.0
+tamil-nadu,2023,4,Recharge & bill payments,47390155,46923336165.0
+tamil-nadu,2023,4,Financial Services,381269,421861473.0
+tamil-nadu,2023,4,Others,278724,226976660.0
+telangana,2021,1,Merchant payments,185230619,95927278280.53006
+telangana,2021,1,Peer-to-peer payments,179738195,676276353116.8419
+telangana,2021,1,Recharge & bill payments,46371555,26447601338.53346
+telangana,2021,1,Financial Services,262473,320153410.17969453
+telangana,2021,1,Others,969268,387877900.5044867
+telangana,2021,2,Peer-to-peer payments,230861833,872151973637.885
+telangana,2021,2,Merchant payments,205232899,123207789311.2962
+telangana,2021,2,Recharge & bill payments,58637866,31877277168.343227
+telangana,2021,2,Financial Services,278546,300569264.1443888
+telangana,2021,2,Others,856400,420723415.91505665
+telangana,2021,3,Merchant payments,286735350,159227310549.39368
+telangana,2021,3,Peer-to-peer payments,271436926,981754679241.0405
+telangana,2021,3,Recharge & bill payments,62744121,36434881136.01624
+telangana,2021,3,Financial Services,235519,329138539.4612142
+telangana,2021,3,Others,1734852,543116826.3422191
+telangana,2021,4,Merchant payments,376584215,212974766412.01556
+telangana,2021,4,Peer-to-peer payments,331774591,1204991223519.016
+telangana,2021,4,Recharge & bill payments,66477036,44760398983.30789
+telangana,2021,4,Financial Services,298871,392141743.6705663
+telangana,2021,4,Others,855060,639658842.8998816
+telangana,2022,1,Merchant payments,449186799,243841863780.6793
+telangana,2022,1,Peer-to-peer payments,368048408,1375289566667.7056
+telangana,2022,1,Recharge & bill payments,66352138,50470450179.88254
+telangana,2022,1,Financial Services,284035,394283511.9410973
+telangana,2022,1,Others,2582005,642005688.7661512
+telangana,2022,2,Merchant payments,565370506,307468406704.909
+telangana,2022,2,Peer-to-peer payments,422056582,1580014085694.835
+telangana,2022,2,Recharge & bill payments,75099130,63136761649.3931
+telangana,2022,2,Financial Services,245023,324857780.5553103
+telangana,2022,2,Others,611316,470432687.3850265
+telangana,2022,3,Merchant payments,880414292,447150646953.73706
+telangana,2022,3,Peer-to-peer payments,626830752,2170173323588.53
+telangana,2022,3,Recharge & bill payments,119779835,87937210666.27194
+telangana,2022,3,Financial Services,340458,442783619.09123904
+telangana,2022,3,Others,800064,621900924.4423015
+telangana,2022,4,Merchant payments,1002521735,491556008133.53546
+telangana,2022,4,Peer-to-peer payments,694612831,2393380395296.8516
+telangana,2022,4,Recharge & bill payments,121188131,92136759501.42021
+telangana,2022,4,Financial Services,401838,498719426.0054372
+telangana,2022,4,Others,782297,680680558.3343163
+telangana,2023,1,Merchant payments,830385203,369961744486.0
+telangana,2023,1,Peer-to-peer payments,522865792,1898813645344.0
+telangana,2023,1,Recharge & bill payments,86187673,102787343319.0
+telangana,2023,1,Financial Services,326874,458821191.0
+telangana,2023,1,Others,565916,560179944.0
+telangana,2023,2,Merchant payments,977182965,429169888297.0
+telangana,2023,2,Peer-to-peer payments,593322476,2155918289810.0
+telangana,2023,2,Recharge & bill payments,94107914,112036624317.0
+telangana,2023,2,Financial Services,354045,517795343.0
+telangana,2023,2,Others,463571,507337241.0
+telangana,2023,3,Merchant payments,1128208049,480552979790.0
+telangana,2023,3,Peer-to-peer payments,647331506,2272184853961.0
+telangana,2023,3,Recharge & bill payments,98661838,116319676778.0
+telangana,2023,3,Financial Services,420147,666845736.0
+telangana,2023,3,Others,424384,478544808.0
+telangana,2023,4,Merchant payments,1225132365,532737433404.0
+telangana,2023,4,Peer-to-peer payments,695789540,2453419152855.0
+telangana,2023,4,Recharge & bill payments,99012602,129036561862.0
+telangana,2023,4,Financial Services,483067,734596496.0
+telangana,2023,4,Others,404604,489730148.0
+tripura,2021,1,Peer-to-peer payments,643366,2821226150.5919185
+tripura,2021,1,Recharge & bill payments,508718,173211140.89346513
+tripura,2021,1,Merchant payments,350366,333743281.32103896
+tripura,2021,1,Financial Services,3146,2879929.222833151
+tripura,2021,1,Others,5827,4281067.764165951
+tripura,2021,2,Peer-to-peer payments,703728,2865655130.4313264
+tripura,2021,2,Recharge & bill payments,589839,189808502.9050523
+tripura,2021,2,Merchant payments,440060,404915546.5177107
+tripura,2021,2,Financial Services,3656,3503925.3381061675
+tripura,2021,2,Others,7146,4271255.844077852
+tripura,2021,3,Peer-to-peer payments,864329,3491901741.1594186
+tripura,2021,3,Recharge & bill payments,620991,215226019.57596284
+tripura,2021,3,Merchant payments,584079,648504775.623629
+tripura,2021,3,Financial Services,2886,3473153.087671739
+tripura,2021,3,Others,8915,5028078.734792852
+tripura,2021,4,Peer-to-peer payments,1060915,4368786747.103016
+tripura,2021,4,Merchant payments,793636,874005407.7140213
+tripura,2021,4,Recharge & bill payments,650251,241225282.07451886
+tripura,2021,4,Financial Services,3635,5073898.6076811645
+tripura,2021,4,Others,12256,7838128.800210228
+tripura,2022,1,Peer-to-peer payments,1221863,4934712034.365204
+tripura,2022,1,Merchant payments,992891,1037265262.6570499
+tripura,2022,1,Recharge & bill payments,641170,262348230.9954375
+tripura,2022,1,Financial Services,4351,5782533.2422681665
+tripura,2022,1,Others,10915,7221703.089884497
+tripura,2022,2,Peer-to-peer payments,1443647,5354182193.788111
+tripura,2022,2,Merchant payments,1322009,1235804019.563663
+tripura,2022,2,Recharge & bill payments,638643,278018856.17835283
+tripura,2022,2,Financial Services,3812,4533635.768901512
+tripura,2022,2,Others,10553,5732336.736273008
+tripura,2022,3,Peer-to-peer payments,1836678,6718925839.047781
+tripura,2022,3,Merchant payments,1660497,1589078400.2615328
+tripura,2022,3,Recharge & bill payments,745382,329401812.4140819
+tripura,2022,3,Financial Services,4343,5330626.119674753
+tripura,2022,3,Others,9679,5616127.06807068
+tripura,2022,4,Peer-to-peer payments,2252390,8142233538.414012
+tripura,2022,4,Merchant payments,2054988,1925282618.8109846
+tripura,2022,4,Recharge & bill payments,874800,373875271.19878656
+tripura,2022,4,Financial Services,5787,5028488.55453164
+tripura,2022,4,Others,10225,6551901.175783692
+tripura,2023,1,Merchant payments,2991978,2538146159.0
+tripura,2023,1,Peer-to-peer payments,2961284,10170883076.0
+tripura,2023,1,Recharge & bill payments,1146228,565902758.0
+tripura,2023,1,Financial Services,7716,6190362.0
+tripura,2023,1,Others,11481,7160536.0
+tripura,2023,2,Merchant payments,3654027,2936486824.0
+tripura,2023,2,Peer-to-peer payments,3144448,10396364428.0
+tripura,2023,2,Recharge & bill payments,1112236,570797284.0
+tripura,2023,2,Financial Services,8100,8721399.0
+tripura,2023,2,Others,10732,6760147.0
+tripura,2023,3,Merchant payments,4388876,3335231974.0
+tripura,2023,3,Peer-to-peer payments,3553878,11300910781.0
+tripura,2023,3,Recharge & bill payments,1144676,597050057.0
+tripura,2023,3,Financial Services,11060,9972113.0
+tripura,2023,3,Others,10272,6058405.0
+tripura,2023,4,Merchant payments,5112814,3958280687.0
+tripura,2023,4,Peer-to-peer payments,3854572,12207187199.0
+tripura,2023,4,Recharge & bill payments,1152820,638954177.0
+tripura,2023,4,Financial Services,10341,9913640.0
+tripura,2023,4,Others,10363,5561091.0
+uttar-pradesh,2021,1,Peer-to-peer payments,85539321,321609613378.6789
+uttar-pradesh,2021,1,Merchant payments,78873969,55362244381.43686
+uttar-pradesh,2021,1,Recharge & bill payments,38981894,18563189222.328217
+uttar-pradesh,2021,1,Financial Services,250656,266104783.7449573
+uttar-pradesh,2021,1,Others,853707,486435811.3771204
+uttar-pradesh,2021,2,Peer-to-peer payments,102927942,388761820128.4563
+uttar-pradesh,2021,2,Merchant payments,84860582,70351401159.78787
+uttar-pradesh,2021,2,Recharge & bill payments,53030710,22266927128.75408
+uttar-pradesh,2021,2,Financial Services,270944,266853066.82962543
+uttar-pradesh,2021,2,Others,858953,525487682.5584012
+uttar-pradesh,2021,3,Peer-to-peer payments,127945827,440726915882.17084
+uttar-pradesh,2021,3,Merchant payments,126699830,91089049637.02377
+uttar-pradesh,2021,3,Recharge & bill payments,50414232,24348150109.635994
+uttar-pradesh,2021,3,Financial Services,253418,292009129.0296748
+uttar-pradesh,2021,3,Others,1230077,624716522.0745409
+uttar-pradesh,2021,4,Merchant payments,183966052,142889329646.05463
+uttar-pradesh,2021,4,Peer-to-peer payments,167503176,600973581946.6772
+uttar-pradesh,2021,4,Recharge & bill payments,52863531,28812549097.65689
+uttar-pradesh,2021,4,Financial Services,353219,386356976.48969895
+uttar-pradesh,2021,4,Others,1471954,829152405.3448995
+uttar-pradesh,2022,1,Merchant payments,221556930,165543931419.27045
+uttar-pradesh,2022,1,Peer-to-peer payments,195592648,684758883172.6667
+uttar-pradesh,2022,1,Recharge & bill payments,54873261,31683813998.386055
+uttar-pradesh,2022,1,Financial Services,358499,386218170.5981607
+uttar-pradesh,2022,1,Others,1571908,750327356.10464
+uttar-pradesh,2022,2,Merchant payments,298721048,216176289528.43256
+uttar-pradesh,2022,2,Peer-to-peer payments,232444860,812579156783.274
+uttar-pradesh,2022,2,Recharge & bill payments,62659780,37867966758.88997
+uttar-pradesh,2022,2,Financial Services,268349,285646084.3258523
+uttar-pradesh,2022,2,Others,1204739,606123265.0864555
+uttar-pradesh,2022,3,Merchant payments,361972506,232005905549.1372
+uttar-pradesh,2022,3,Peer-to-peer payments,267205027,844564255684.5037
+uttar-pradesh,2022,3,Recharge & bill payments,72984811,43854148172.58542
+uttar-pradesh,2022,3,Financial Services,367887,344330142.1388885
+uttar-pradesh,2022,3,Others,1058841,601411350.4106325
+uttar-pradesh,2022,4,Merchant payments,439247166,296781967366.6535
+uttar-pradesh,2022,4,Peer-to-peer payments,317613698,1030345562935.8824
+uttar-pradesh,2022,4,Recharge & bill payments,78025017,48159073834.94295
+uttar-pradesh,2022,4,Financial Services,418329,430212917.27641135
+uttar-pradesh,2022,4,Others,1064861,661985014.756895
+uttar-pradesh,2023,1,Merchant payments,520911142,323614616766.0
+uttar-pradesh,2023,1,Peer-to-peer payments,383752815,1246010023301.0
+uttar-pradesh,2023,1,Recharge & bill payments,96225086,66101414555.0
+uttar-pradesh,2023,1,Financial Services,486982,483872123.0
+uttar-pradesh,2023,1,Others,1181697,726338627.0
+uttar-pradesh,2023,2,Merchant payments,653469610,372223301627.0
+uttar-pradesh,2023,2,Peer-to-peer payments,446787898,1389827653278.0
+uttar-pradesh,2023,2,Recharge & bill payments,109571801,73352450074.0
+uttar-pradesh,2023,2,Financial Services,506431,562369291.0
+uttar-pradesh,2023,2,Others,1074842,656302256.0
+uttar-pradesh,2023,3,Merchant payments,754249074,389288397238.0
+uttar-pradesh,2023,3,Peer-to-peer payments,488395790,1394085756434.0
+uttar-pradesh,2023,3,Recharge & bill payments,110408404,76981859735.0
+uttar-pradesh,2023,3,Financial Services,624941,798613229.0
+uttar-pradesh,2023,3,Others,944257,593735370.0
+uttar-pradesh,2023,4,Merchant payments,875617035,489746639610.0
+uttar-pradesh,2023,4,Peer-to-peer payments,575043255,1677661668298.0
+uttar-pradesh,2023,4,Recharge & bill payments,114346855,88481840260.0
+uttar-pradesh,2023,4,Financial Services,736922,950129225.0
+uttar-pradesh,2023,4,Others,961315,600884259.0
+uttarakhand,2021,1,Merchant payments,8393767,5283142247.065777
+uttarakhand,2021,1,Peer-to-peer payments,7981710,29202365442.63442
+uttarakhand,2021,1,Recharge & bill payments,4146569,1727960484.030287
+uttarakhand,2021,1,Financial Services,30208,38400863.99560504
+uttarakhand,2021,1,Others,56148,36320362.17233381
+uttarakhand,2021,2,Peer-to-peer payments,9374939,32674145244.390625
+uttarakhand,2021,2,Merchant payments,9134389,6257528832.057196
+uttarakhand,2021,2,Recharge & bill payments,5388285,1979824048.8157122
+uttarakhand,2021,2,Financial Services,31497,35404991.874676295
+uttarakhand,2021,2,Others,71322,43914757.70001851
+uttarakhand,2021,3,Merchant payments,13673085,9001414756.070686
+uttarakhand,2021,3,Peer-to-peer payments,11867174,39256650720.01872
+uttarakhand,2021,3,Recharge & bill payments,5388011,2182554095.263321
+uttarakhand,2021,3,Financial Services,27839,38013969.98341857
+uttarakhand,2021,3,Others,86175,48863242.2282843
+uttarakhand,2021,4,Merchant payments,19850878,13515464697.761791
+uttarakhand,2021,4,Peer-to-peer payments,14819203,49969580473.07786
+uttarakhand,2021,4,Recharge & bill payments,5536262,2540546090.023079
+uttarakhand,2021,4,Financial Services,38764,51212042.381750934
+uttarakhand,2021,4,Others,116173,71304856.17664191
+uttarakhand,2022,1,Merchant payments,22595602,14585438346.473846
+uttarakhand,2022,1,Peer-to-peer payments,16201632,53535521438.95823
+uttarakhand,2022,1,Recharge & bill payments,5617605,2745987927.683198
+uttarakhand,2022,1,Financial Services,39033,49695999.71828518
+uttarakhand,2022,1,Others,106900,62138787.2410843
+uttarakhand,2022,2,Merchant payments,32087670,19479185362.296963
+uttarakhand,2022,2,Peer-to-peer payments,19677409,65563901300.31024
+uttarakhand,2022,2,Recharge & bill payments,6263098,3174160697.8567643
+uttarakhand,2022,2,Financial Services,32284,37217548.78562989
+uttarakhand,2022,2,Others,106417,58906116.08464594
+uttarakhand,2022,3,Merchant payments,35069444,20528059274.248493
+uttarakhand,2022,3,Peer-to-peer payments,22031045,68377272372.60579
+uttarakhand,2022,3,Recharge & bill payments,6765699,3633710468.801753
+uttarakhand,2022,3,Financial Services,38061,44669245.26821817
+uttarakhand,2022,3,Others,92270,57548577.43879978
+uttarakhand,2022,4,Merchant payments,43185705,26026949674.245083
+uttarakhand,2022,4,Peer-to-peer payments,27043038,85220041974.58176
+uttarakhand,2022,4,Recharge & bill payments,7610775,4128624164.749209
+uttarakhand,2022,4,Financial Services,44569,55762460.39159953
+uttarakhand,2022,4,Others,99793,64668557.391687945
+uttarakhand,2023,1,Merchant payments,46150691,24023994792.0
+uttarakhand,2023,1,Peer-to-peer payments,25105743,78202343600.0
+uttarakhand,2023,1,Recharge & bill payments,7974874,4828592096.0
+uttarakhand,2023,1,Financial Services,49836,56455666.0
+uttarakhand,2023,1,Others,104531,68521431.0
+uttarakhand,2023,2,Merchant payments,61652430,30881251416.0
+uttarakhand,2023,2,Peer-to-peer payments,31690416,97448517076.0
+uttarakhand,2023,2,Recharge & bill payments,9247601,5608284038.0
+uttarakhand,2023,2,Financial Services,58524,66971615.0
+uttarakhand,2023,2,Others,109243,67848253.0
+uttarakhand,2023,3,Merchant payments,64872613,30958940671.0
+uttarakhand,2023,3,Peer-to-peer payments,32232624,92015204778.0
+uttarakhand,2023,3,Recharge & bill payments,9017620,5630443171.0
+uttarakhand,2023,3,Financial Services,63561,101529618.0
+uttarakhand,2023,3,Others,98269,56279883.0
+uttarakhand,2023,4,Merchant payments,73028369,36848560480.0
+uttarakhand,2023,4,Peer-to-peer payments,36069901,104875896612.0
+uttarakhand,2023,4,Recharge & bill payments,8790080,6186779834.0
+uttarakhand,2023,4,Financial Services,77149,113625124.0
+uttarakhand,2023,4,Others,105941,58585212.0
+west-bengal,2021,1,Peer-to-peer payments,53869075,202240249482.85385
+west-bengal,2021,1,Merchant payments,37143701,28918343691.018497
+west-bengal,2021,1,Recharge & bill payments,26673733,11339665944.69124
+west-bengal,2021,1,Financial Services,166727,175445811.88444334
+west-bengal,2021,1,Others,400816,263502545.07389978
+west-bengal,2021,2,Peer-to-peer payments,64661051,230812278789.29965
+west-bengal,2021,2,Merchant payments,41696787,34787867208.31932
+west-bengal,2021,2,Recharge & bill payments,34799709,13331453857.609217
+west-bengal,2021,2,Financial Services,190537,186466487.6307634
+west-bengal,2021,2,Others,549353,316744715.7049847
+west-bengal,2021,3,Peer-to-peer payments,84353949,294799731350.5536
+west-bengal,2021,3,Merchant payments,58800005,50971169851.15668
+west-bengal,2021,3,Recharge & bill payments,37556310,16045754099.005053
+west-bengal,2021,3,Financial Services,189087,213411736.37376124
+west-bengal,2021,3,Others,813637,426999219.42323273
+west-bengal,2021,4,Peer-to-peer payments,105728377,372240891205.5542
+west-bengal,2021,4,Merchant payments,80248673,71231577538.7114
+west-bengal,2021,4,Recharge & bill payments,37801439,17813903244.663807
+west-bengal,2021,4,Financial Services,252535,270791056.674143
+west-bengal,2021,4,Others,998536,660874216.4934742
+west-bengal,2022,1,Peer-to-peer payments,124787028,446343740437.97784
+west-bengal,2022,1,Merchant payments,97315025,85854730616.41321
+west-bengal,2022,1,Recharge & bill payments,37317865,18435424277.725906
+west-bengal,2022,1,Financial Services,239530,261096608.80560598
+west-bengal,2022,1,Others,845644,531671268.6395414
+west-bengal,2022,2,Peer-to-peer payments,145395450,520190680811.79974
+west-bengal,2022,2,Merchant payments,126682135,107049019781.85823
+west-bengal,2022,2,Recharge & bill payments,42712193,20697301165.41855
+west-bengal,2022,2,Financial Services,191724,199770753.23061734
+west-bengal,2022,2,Others,760639,438407071.93834406
+west-bengal,2022,3,Peer-to-peer payments,163523844,556258142870.3699
+west-bengal,2022,3,Merchant payments,145181044,123577123532.40588
+west-bengal,2022,3,Recharge & bill payments,47208496,24221425246.93133
+west-bengal,2022,3,Financial Services,238746,241288774.23230746
+west-bengal,2022,3,Others,640258,451918188.20472723
+west-bengal,2022,4,Peer-to-peer payments,184380244,620222191587.5906
+west-bengal,2022,4,Merchant payments,171667404,140807748126.1634
+west-bengal,2022,4,Recharge & bill payments,48921147,26026633153.201996
+west-bengal,2022,4,Financial Services,268388,261122865.47893512
+west-bengal,2022,4,Others,610414,457937874.8149981
+west-bengal,2023,1,Peer-to-peer payments,209399898,712039303982.0
+west-bengal,2023,1,Merchant payments,196695397,152528979798.0
+west-bengal,2023,1,Recharge & bill payments,52273240,31580090540.0
+west-bengal,2023,1,Financial Services,287719,266872934.0
+west-bengal,2023,1,Others,622090,467935301.0
+west-bengal,2023,2,Merchant payments,245111000,176704613449.0
+west-bengal,2023,2,Peer-to-peer payments,240347041,797054798425.0
+west-bengal,2023,2,Recharge & bill payments,58950434,34789238757.0
+west-bengal,2023,2,Financial Services,327537,317467007.0
+west-bengal,2023,2,Others,581674,448989334.0
+west-bengal,2023,3,Merchant payments,296965002,200440391406.0
+west-bengal,2023,3,Peer-to-peer payments,271150280,831050092805.0
+west-bengal,2023,3,Recharge & bill payments,63055684,39209851435.0
+west-bengal,2023,3,Financial Services,389751,424985591.0
+west-bengal,2023,3,Others,532474,423285145.0
+west-bengal,2023,4,Merchant payments,354067997,239073842398.0
+west-bengal,2023,4,Peer-to-peer payments,317959249,964138540494.0
+west-bengal,2023,4,Recharge & bill payments,64920775,45319429210.0
+west-bengal,2023,4,Financial Services,480740,459007296.0
+west-bengal,2023,4,Others,524477,404156680.0
