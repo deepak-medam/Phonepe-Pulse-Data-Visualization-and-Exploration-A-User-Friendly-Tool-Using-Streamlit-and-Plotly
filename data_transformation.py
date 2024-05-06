@@ -36,7 +36,7 @@ def aggregate_transactions(dir_path):
 
 
 def aggregate_users(dir_path):
-    df_data = {'State': [], 'Year': [], 'Quarter': [], 'Registered_users':[], 'App_opens':[], 'Brand': [], 'Count': [], 'Percentage': []}
+    df_data = {'State': [], 'Year': [], 'Quarter': [], 'Registered_users':[], 'App_opens':[], 'Brand': [], 'User_Count': [], 'Percentage': []}
 
     for state in os.listdir(dir_path):
         state_path = os.path.join(dir_path, state)
@@ -70,7 +70,7 @@ def aggregate_users(dir_path):
                                 df_data['Registered_users'].append(registered_users)
                                 df_data['App_opens'].append(app_opens)
                                 df_data['Brand'].append(brand)
-                                df_data['Count'].append(count)
+                                df_data['User_Count'].append(count)
                                 df_data['Percentage'].append(percentage)
                         except KeyError:
                             pass
@@ -79,7 +79,7 @@ def aggregate_users(dir_path):
 
 
 def map_transactions(dir_path):
-    df_data = {'State': [], 'Year': [], 'Quarter': [], 'District': [], 'Count': [], 'Amount': []}
+    df_data = {'State': [], 'Year': [], 'Quarter': [], 'District': [], 'Transaction_Count': [], 'Transaction_Amount': []}
     for state in os.listdir(dir_path):
         state_path = os.path.join(dir_path, state)
         if not os.path.isdir(state_path):
@@ -104,14 +104,14 @@ def map_transactions(dir_path):
                             df_data['Year'].append(year)
                             df_data['Quarter'].append(quarter_num)
                             df_data['District'].append(district)
-                            df_data['Count'].append(count)
-                            df_data['Amount'].append(amount)
+                            df_data['Transaction_Count'].append(count)
+                            df_data['Transaction_Amount'].append(amount)
 
     return pd.DataFrame(df_data)
 
 
 def map_users(dir_path):
-    df_data = {'State': [], 'Year': [], 'Quarter': [], 'District': [], 'RegisteredUser': []}
+    df_data = {'State': [], 'Year': [], 'Quarter': [], 'District': [], 'Registered_users': []}
     for state in os.listdir(dir_path):
         state_path = os.path.join(dir_path, state)
         if not os.path.isdir(state_path):
@@ -134,7 +134,7 @@ def map_users(dir_path):
                             df_data['Year'].append(year)
                             df_data['Quarter'].append(quarter_num)
                             df_data['District'].append(district)
-                            df_data['RegisteredUser'].append(registered_users)
+                            df_data['Registered_users'].append(registered_users)
 
     return pd.DataFrame(df_data)
 
@@ -204,7 +204,7 @@ def top_transactions_pincode(dir_path):
 
 
 def top_user_district(dir_path):
-    df_data = {'State': [], 'Year': [], 'Quarter': [], 'District': [], 'RegisteredUser': []}
+    df_data = {'State': [], 'Year': [], 'Quarter': [], 'District': [], 'Registered_users': []}
     for state in os.listdir(dir_path):
         state_path = os.path.join(dir_path, state)
         if not os.path.isdir(state_path):
@@ -228,13 +228,13 @@ def top_user_district(dir_path):
                             df_data['Year'].append(year)
                             df_data['Quarter'].append(quarter_num)
                             df_data['District'].append(district)
-                            df_data['RegisteredUser'].append(registered_user)
+                            df_data['Registered_users'].append(registered_user)
 
     return pd.DataFrame(df_data)
 
 
 def top_user_pincode(dir_path):
-    df_data = {'State': [], 'Year': [], 'Quarter': [], 'Pincode': [], 'RegisteredUser': []}
+    df_data = {'State': [], 'Year': [], 'Quarter': [], 'Pincode': [], 'Registered_users': []}
     
     for state in os.listdir(dir_path):
         state_path = os.path.join(dir_path, state)
@@ -261,7 +261,7 @@ def top_user_pincode(dir_path):
                             df_data['Year'].append(year)
                             df_data['Quarter'].append(quarter_num)
                             df_data['Pincode'].append(pincode)
-                            df_data['RegisteredUser'].append(registered_user)
+                            df_data['Registered_users'].append(registered_user)
 
     return pd.DataFrame(df_data)
 
@@ -284,12 +284,22 @@ top_transactions_pincode_df = top_transactions_pincode(path_to_top_transaction_d
 top_user_district_df = top_user_district(path_to_top_user_data)
 top_user_pincode_df = top_user_pincode(path_to_top_user_data)
 
-# Converting data frames to csv files
-aggregated_transaction_df.to_csv('aggregated_transaction.csv',index=False)
-aggregated_users_df.to_csv('aggregated_users.csv',index=False)
-map_transactions_df.to_csv('map_transactions.csv',index=False)
-map_users_df.to_csv('map_users.csv',index=False)
-top_transactions_state_df.to_csv('top_transactions_state.csv', index=False)
-top_transactions_pincode_df.to_csv('top_transactions_pincode.csv', index=False)
-top_user_district_df.to_csv('top_user_district.csv', index=False)
-top_user_pincode_df.to_csv('top_user_picode.csv', index=False)
+aggregated_transaction_df.info()
+aggregated_users_df.info()
+map_transactions_df.info()
+map_users_df.info()
+top_transactions_state_df.info()
+top_transactions_pincode_df.info()
+top_user_district_df.info()
+top_user_pincode_df.info()
+
+
+# # Converting data frames to csv files
+# aggregated_transaction_df.to_csv('aggregated_transaction.csv',index=False)
+# aggregated_users_df.to_csv('aggregated_users.csv',index=False)
+# map_transactions_df.to_csv('map_transactions.csv',index=False)
+# map_users_df.to_csv('map_users.csv',index=False)
+# top_transactions_state_df.to_csv('top_transactions_state.csv', index=False)
+# top_transactions_pincode_df.to_csv('top_transactions_pincode.csv', index=False)
+# top_user_district_df.to_csv('top_user_district.csv', index=False)
+# top_user_pincode_df.to_csv('top_user_picode.csv', index=False)

@@ -1,4 +1,4 @@
-State,Year,Quarter,District,Count,Amount
+State,Year,Quarter,District,Transaction_Count,Transaction_Amount
 andaman-&-nicobar-islands,2021,1,north and middle andaman district,27358,75027255.27919498
 andaman-&-nicobar-islands,2021,1,south andaman district,207092,669604045.1248703
 andaman-&-nicobar-islands,2021,1,nicobars district,10302,39075266.9856904
