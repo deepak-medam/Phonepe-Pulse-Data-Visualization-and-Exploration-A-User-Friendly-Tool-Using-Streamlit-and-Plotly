@@ -11,3 +11,11 @@
 ## Main libraries
 * pip install mysql-connector-python
 * pip install plotly streamlit
+
+## website screenshots
+![alt text](<screenshots/Screenshot 2024-05-07 103049.png>)
+![alt text](<screenshots/Screenshot 2024-05-07 103108.png>)
+![alt text](<screenshots/Screenshot 2024-05-07 103118.png>)
+![alt text](<screenshots/Screenshot 2024-05-07 103130.png>)
+![alt text](<screenshots/Screenshot 2024-05-07 103138.png>)
+![alt text](<screenshots/Screenshot 2024-05-07 103147.png>)
