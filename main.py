@@ -69,6 +69,7 @@ def show_home_page():
         st.write(" ")
         st.markdown("### :blue[Domain :] This project domain is 'Fintech'")
         st.markdown("### :blue[Overview :] This website is created to understand and visualise the phonepe pulse data and gain insights on transactions, number of users, top 10 states, districts, pincodes in transactions cout and amount and which brand has most number of users...etc. Differnt kind of charts, pies and geo maps are used to acheive the objective.")
+        st.markdown("### :blue[About me :] My name is Deepak, You can visit my github page at https://github.com/deepak-medam")
     with col2:
         st.image(r"D:\GDrive\2024-25\Projects\Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly\home_img.jpg")
 
